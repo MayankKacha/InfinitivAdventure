@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.0",
+  "category": "peak-climbing",
+  "trips": [
+    {
+      "slug": "stok-kangri-peak-climbing",
+      "name": "Stok Kangri Peak Climbing",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/stok-kangri-peak-climbing/data.json"
+    },
+    {
+      "slug": "kang-yatse-peak-climbing",
+      "name": "Kang Yatse Peak Climbing",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/kang-yatse-peak-climbing/data.json"
+    },
+    {
+      "slug": "nun-kun-peak-climbing",
+      "name": "Nun Kun Peak Climbing",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/nun-kun-peak-climbing/data.json"
+    },
+    {
+      "slug": "matho-kangri-peak-climbing",
+      "name": "Matho Kangri Peak Climbing",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/matho-kangri-peak-climbing/data.json"
+    },
+    {
+      "slug": "kedarnath-peak-climbing",
+      "name": "Kedarnath Peak Climbing",
+      "region": "Uttarakhand",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/kedarnath-peak-climbing/data.json"
+    },
+    {
+      "slug": "pangarchulla-peak-climbing",
+      "name": "Pangarchulla Peak Climbing",
+      "region": "Uttarakhand",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/pangarchulla-peak-climbing/data.json"
+    },
+    {
+      "slug": "mt-changabang-expedition",
+      "name": "Mt. Changabang Expedition",
+      "region": "Uttarakhand",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-changabang-expedition/data.json"
+    },
+    {
+      "slug": "mt-thalay-sagar-expedition",
+      "name": "Mt. Thalay Sagar Expedition",
+      "region": "Uttarakhand",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-thalay-sagar-expedition/data.json"
+    },
+    {
+      "slug": "friendship-peak-expedition",
+      "name": "Friendship Peak Expedition",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/friendship-peak-expedition/data.json"
+    },
+    {
+      "slug": "mt-deo-tibba-peak-climbing",
+      "name": "Mt. Deo Tibba Peak Climbing",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-deo-tibba-peak-climbing/data.json"
+    },
+    {
+      "slug": "mt-hanuman-tibba-peak-climbing",
+      "name": "Mt. Hanuman Tibba Peak Climbing",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-hanuman-tibba-peak-climbing/data.json"
+    },
+    {
+      "slug": "mt-shitidhar-peak-climbing",
+      "name": "Mt. Shitidhar Peak Climbing",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-shitidhar-peak-climbing/data.json"
+    },
+    {
+      "slug": "frey-peak-climbing",
+      "name": "Frey Peak Climbing",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/frey-peak-climbing/data.json"
+    },
+    {
+      "slug": "brumkhangse-peak-climbing",
+      "name": "Brumkhangse Peak Climbing",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/brumkhangse-peak-climbing/data.json"
+    },
+    {
+      "slug": "mt-jopuno-expedition",
+      "name": "Mt. Jopuno Expedition",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/mt-jopuno-expedition/data.json"
+    },
+    {
+      "slug": "thinchenkhang-peak-climbing",
+      "name": "Thinchenkhang Peak Climbing",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": false,
+      "path": "peak-climbing/thinchenkhang-peak-climbing/data.json"
+    }
+  ]
+}

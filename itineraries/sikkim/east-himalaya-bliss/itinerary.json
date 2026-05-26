@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "East Himalaya Bliss: Sikkim, Pelling & Darjeeling",
+  "slug": "east-himalaya-bliss",
+  "region": "Sikkim",
+  "duration": "6 Nights / 7 Days",
+  "bestTime": "March - June, October - December",
+  "startingPrice": 35800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Discover the mesmerizing landscapes of the Eastern Himalayas with this well-crafted journey covering Gangtok, Pelling, and Darjeeling.",
+  "route": "Siliguri/NJP → Gangtok → Tsomgo Lake → Pelling (via Namchi) → Darjeeling → Siliguri/NJP",
+  "highlights": [
+    "Breathtaking Tsomgo Lake",
+    "Baba Harbhajan Singh Temple",
+    "Siddheshwar Dham in Namchi",
+    "Khecheopalri Lake",
+    "Pemayangtse Monastery",
+    "Sunrise at Tiger Hill",
+    "Darjeeling tea gardens and culture"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Transfer to Gangtok",
+      "desc": "Transfer to Gangtok. Evening at leisure."
+    },
+    {
+      "day": "Day 2",
+      "title": "Tsomgo Lake & Baba Mandir",
+      "desc": "Visit Tsomgo Lake and Baba Mandir out of Gangtok."
+    },
+    {
+      "day": "Day 3",
+      "title": "Gangtok to Pelling via Namchi",
+      "desc": "Visit Siddheshwar Dham and Sai Temple. Overnight Pelling."
+    },
+    {
+      "day": "Day 4",
+      "title": "Pelling Sightseeing",
+      "desc": "Darap Village, Rimbi Waterfalls, Khecheopalri Lake, Skywalk."
+    },
+    {
+      "day": "Day 5",
+      "title": "Transfer to Darjeeling",
+      "desc": "Drive to Darjeeling via scenic routes."
+    },
+    {
+      "day": "Day 6",
+      "title": "Darjeeling & Tiger Hill",
+      "desc": "Early morning Tiger Hill for sunrise. Explore local Darjeeling."
+    },
+    {
+      "day": "Day 7",
+      "title": "Departure",
+      "desc": "Transfer to NJP/Bagdogra."
+    }
+  ],
+  "inclusions": [
+    "Hotels (2N Gangtok, 2N Pelling, 2N Darjeeling)",
+    "Breakfast & dinner",
+    "Private vehicle",
+    "Pickup/Drop"
+  ],
+  "exclusions": [
+    "GST",
+    "Entry tickets",
+    "Nathula Pass permit",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 35800,
+      "details": [
+        "3-star accommodations"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 41800,
+      "details": [
+        "4-star hotels with better interiors"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 56800,
+      "details": [
+        "Premium resorts/boutique properties"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-1.jpg"
+  ],
+  "coverPhoto": "images/sikkim-1.jpg",
+  "essentialTips": [
+    "Permits mandatory",
+    "Valid ID required"
+  ]
+}

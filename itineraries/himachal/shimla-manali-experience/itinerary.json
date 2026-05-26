@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Shimla & Manali Experience",
+  "slug": "shimla-manali-experience",
+  "region": "Himachal",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "April - July, September - December",
+  "startingPrice": 15800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "A perfect blend of scenic landscapes, cultural exploration, and leisure travel across Shimla and Manali.",
+  "route": "Chandigarh → Shimla → Kufri → Manali → Solang Valley → Sissu → Chandigarh",
+  "highlights": [
+    "Colonial charm of Shimla",
+    "Kufri and Himalayan Zoo",
+    "Drives through Kullu Valley",
+    "Atal Tunnel & Sissu Village",
+    "Solang Valley adventure",
+    "Manali culture and temples"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Departure",
+      "desc": "Overnight train journey to Chandigarh."
+    },
+    {
+      "day": "Day 2",
+      "title": "Transfer to Shimla",
+      "desc": "Arrive Chandigarh, drive to Shimla. Evening at Mall Road."
+    },
+    {
+      "day": "Day 3",
+      "title": "Shimla & Kufri",
+      "desc": "Excursion to Kufri, Jakhoo Hill, Ridge and Mall Road."
+    },
+    {
+      "day": "Day 4",
+      "title": "Shimla to Manali",
+      "desc": "Drive to Manali via Kullu Valley. Visit Pandoh Dam and Kullu."
+    },
+    {
+      "day": "Day 5",
+      "title": "Atal Tunnel, Sissu & Solang",
+      "desc": "Drive through Atal tunnel, visit Sissu and Solang Valley."
+    },
+    {
+      "day": "Day 6",
+      "title": "Manali Local",
+      "desc": "Visit Hadimba Temple, Vashisht Temple, and Old Manali."
+    },
+    {
+      "day": "Day 7",
+      "title": "Return to Chandigarh",
+      "desc": "Travel to Chandigarh and board train."
+    },
+    {
+      "day": "Day 8",
+      "title": "Conclusion",
+      "desc": "Arrival at home destination."
+    }
+  ],
+  "inclusions": [
+    "Train tickets",
+    "Accommodation as selected",
+    "Breakfast and dinner",
+    "Private vehicle",
+    "Driver cum guide"
+  ],
+  "exclusions": [
+    "GST 5%",
+    "Adventure activities",
+    "Entry fees"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 15800,
+      "details": [
+        "3-star hotels in Shimla and Manali"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 21800,
+      "details": [
+        "4-star hotels with better interiors"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 28800,
+      "details": [
+        "Premium resorts or boutique hotels"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Pack warm clothes",
+    "Comfortable footwear recommended"
+  ]
+}

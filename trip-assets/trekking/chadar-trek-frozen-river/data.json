@@ -1,0 +1,100 @@
+{
+  "category": "trekking",
+  "region": "Ladakh",
+  "slug": "chadar-trek-frozen-river",
+  "name": "Chadar Trek ( Frozen River )",
+  "upcoming": false,
+  "duration": "13 Days / 12 Nights",
+  "route": "Leh → Chilling → Tilad Do → Shingra Koma → Tibb Cave → Nerak → Tibb Cave → Tilad Do → Chilling → Leh",
+  "startingPrice": null,
+  "description": "Thrilling, intriguing, challenging, unpredictable, the Frozen River Chadar Trek in Ladakh is a surreal winter adventure that tests endurance and rewards with breathtaking beauty. Walking on the frozen Zanskar River at -25°C, surrounded by towering cliffs, is nothing short of mesmerizing. The trail takes you through Tibb Cave, across icy terrains, past unusual campsites, and to the awe-inspiring Nerak Waterfall, frozen in time. Sledges carry essentials as trekkers navigate through this ever-changing sheet of ice. Starting from Leh, this trek in Ladakh isn’t just a journey; it’s an experience of raw nature, resilience, and the thrill of the unknown. Frozen River Chadar Trekking Route and Experience Trekkers begin their journey from Leh (3500 m), where they can acclimatize before driving 65 km to Tilado (3215 m), the actual base of the trek. The beautiful journey to Tilado presents breathtaking scenery of mountain peaks covered in snow along with the frozen Zanskar River. Leaving Tilado, a 4 km trek leads to Shingra Yokma (3300 m), where the first genuine experience of ice walking commences. Constant changes in ice formations along the path makes every step unpredictable. Trekkers must exercise caution when moving through slippery ice sections as the frozen terrain crunches below their feet. During this trek, camps are set up in natural caves and along the riverbank. Moving from Shingra Yokma, the trek extends 7 km to reach Shingra Koma (3200 m). This challenging trail makes for a worthwhile journey because it passes through narrow gorges alongside impressive towering cliffs. After trekking 6 km from Shingra Koma, trekkers reach Tsomo Paldar (3300 m) which marks the final path before seeing the amazing Nerak Waterfall. The stunning views of the frozen waterfall are truly a reward for completing this difficult trek. The return journey follows the same route, but the ever-changing ice formations ensure that no two steps are the same. The Chadar Trek is not just a test of endurance but an experience that leaves trekkers in awe of nature’s raw magnificence.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival Leh (Complete Rest in Leh for acclimatisation)",
+      "desc": "Take the morning flight for Leh. Check into the guest house and relax the whole day. This is necessary for getting acclimatised. Overnight at the guesthouse"
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh - Shey - Thiksey - Hemis",
+      "desc": "On this day you will go a sightseeing trip to some ancient monasteries in this area. Shey Gompa is about 15 kms from Leh. It used to be the summer palace of the kings of Ladakh. There are lots of Stupas and Gompas built around the palace. Shey palace was built by Deldan Namgyal in the beginning of 17Th century AD. Main attraction in Shey is the 12m Shakyamuni Buddha Statue inside the Dresthang Gompa. Thiksey Gompa, close to Shey is about 17 kms from Leh. The monastery is considered to be one of the most beautiful in Ladakh and belongs to the Gelukspa order. Hemis, about 45 kms south of Leh it is one of the most famous and largest monastery in Ladakh. It belongs to the Drukpa order and was founded in the early 17Th century. The setting is perfect with the monastery cradled in a lovely valley, surrounded by streams and fronted by long Mani walls. Overnight stay at the guest house"
+    },
+    {
+      "day": "Day 3",
+      "title": "Leh - Chilling",
+      "desc": "(5 hrs drive) In the morning drive to chilling along with our porters from Pishu village of Zanskar, visit coppersmith workshops. Dinner and overnight stay at guest house"
+    },
+    {
+      "day": "Day 4",
+      "title": "Chilling - Zaribago",
+      "desc": "We begin our Chadar trek by walking on the frozen Zanskar river from Chilling to Zaribago. The trek is of about 5 hours. Overnight at Camp"
+    },
+    {
+      "day": "Day 5",
+      "title": "Zaribago - Deepyokma",
+      "desc": "Walk on the frozen Zanskar river for about 4 hours from Zaribago to Deepyokma. Overnight at Camp"
+    },
+    {
+      "day": "Day 6",
+      "title": "Deepyokma - Nyrakpulu",
+      "desc": "Walk for almost 4 to 5 hours from Deepyokma to reach Nyarakpulu below the Nyarak village. Over night at Camp"
+    },
+    {
+      "day": "Day 7",
+      "title": "Nyarakpulu - Lingshed",
+      "desc": "Frozen River (Chadar) Trek Leaving Nyarakpulu it's a one hour walk to the small village of Lingshed. Enjoy the comfort and cozy atmosphere of a private house with central heating"
+    },
+    {
+      "day": "Day 8",
+      "title": "Lingshed (Exploratory Day)",
+      "desc": "Spend rest of the day in the warmth of a private home in Lingshed. Explore the nearby monasteries, meet the monks and hospitable people of the village. Overnight stay at the private home"
+    },
+    {
+      "day": "Day 9",
+      "title": "Lingshed - Nyarakpulu",
+      "desc": "Lingshed to Nyarakpulu - a walk of about five hours to the campsite"
+    },
+    {
+      "day": "Day 10",
+      "title": "Nyarakpulu - Tso Mopoaldar",
+      "desc": "Nyarakpulu to Tso Mopoaldar a four hour walk to the campsite"
+    },
+    {
+      "day": "Day 11",
+      "title": "Tso Mopoaldar - Tilatdo",
+      "desc": "Frozen River (Chadar) Trek Mopoaldar to Tilatdo - another day of walking about 5 hours"
+    },
+    {
+      "day": "Day 12",
+      "title": "Tilatdo - Chilling - Leh",
+      "desc": "From Tilatdo walk up to Chilling village from where a Jeep will take you back to the hotel in Leh by evening. Overnight stay at hotel"
+    },
+    {
+      "day": "Day 13",
+      "title": "Departure Leh",
+      "desc": "Early in the morning transfer to airport and from here catch a flight for your city. Trip and services ends here"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": "January to February",
+  "trekFacts": {
+    "Duration": "13 Days",
+    "ALTITUDE": "3850 mts/12628 ft",
+    "Grade": "Moderate to tough"
+  },
+  "photos": [
+    "images/frozen-river-chadar-trek-banner.webp",
+    "images/frozen-river-chadar-trek1.webp",
+    "images/frozen-river-chadar-trek3.webp",
+    "images/frozen-river-chadar-trek4.webp",
+    "images/frozen-river-chadar-trek5.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/frozen-river-chadar-trek-banner.webp",
+  "hasData": true
+}

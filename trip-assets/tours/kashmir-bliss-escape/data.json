@@ -1,0 +1,139 @@
+{
+  "category": "tours",
+  "region": "Kashmir",
+  "slug": "kashmir-bliss-escape",
+  "name": "Kashmir Bliss Escape",
+  "upcoming": false,
+  "duration": "6 Days / 5 Nights",
+  "route": "Srinagar → Pahalgam → Gulmarg → Srinagar → Sonmarg → Srinagar",
+  "startingPrice": null,
+  "description": "Explore the breathtaking beauty of Kashmir with this well-crafted 6-day journey. From the serene lakes of Srinagar to the lush valleys of Pahalgam and the snow-covered landscapes of Gulmarg, this tour offers a perfect mix of nature, culture, and relaxation. Experience Mughal gardens, scenic valleys, traditional Houseboat stays, and iconic attractions, making it an ideal getaway for families, couples, and nature lovers.",
+  "highlights": [
+    "Visit famous Mughal Gardens – Nishat, Shalimar, and Chashme Shahi",
+    "Explore Pari Mahal and Botanical Garden",
+    "Optional visit to Tulip Garden (seasonal)",
+    "Enjoy a traditional Shikara ride on Dal Lake",
+    "Discover Pahalgam valleys – Aru, Betaab, and Chandanwari",
+    "Visit Gulmarg, a popular hill station and skiing destination",
+    "Experience Gondola ride (one of the highest cable cars in the world)",
+    "Excursion to Sonmarg – the “Meadow of Gold”",
+    "Visit Shankaracharya Temple and local markets"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Srinagar (Local Sightseeing)",
+      "desc": "On arrival at Srinagar Airport meet our Representative, who will take you to the Hotel in Srinagar, today we will visit places like Nishat , Pari mahal, Botanical Garden, Tulip Garden(if Open), Cheshmashahi Garden. Dinner and Overnight Stay at hotel/Houseboat in Srinagar"
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar to Pahalgam",
+      "desc": "After Breakfast ,Take a Tour of Pahalgam Visit Aru Valley, Betab Valley & Chandanwadi(Own Cost), The snow Point (14 Km) at your own cost or enjoy a pony ride at your own cost, Return back to Pahalgam, the rest of the day at leisure to explore the countryside and enjoy leisurely walks through the pine forest along the River Lidder. Dinner and overnight stay at the hote"
+    },
+    {
+      "day": "Day 3",
+      "title": "Pahalgam to Gulmarg",
+      "desc": "After Breakfast Leave for to Gulmarg “Meadow of Flowers” Discovered by the Kashmiri romantic poet in the 16th century who was inspired by its grassy slopes covered with wildflowers. In winter Gulmarg looks more beautiful due to heavy snowfall. It turns into India & premier Ski resort in winter. After check in, leave with your guide for some adventure activity in Gulmarg. for Gondola ride (Own Cost) in the highest cable car corporation in the world after that you you will spend your rest of the day by visiting places like Golf course, Maharaja palace, children’s park and also see some good place’s there. Overnight stay at Gulmarg Gulmarg, A town, a hill station, a popular skiing destination during winters. Gulmarg is famous because of its “Gulmarg Gondola,” one of the highest cable cars in the world , Dinner and Overnight Stay at the hotel in Gulmarg"
+    },
+    {
+      "day": "Day 4",
+      "title": "Gulmarg to Srinagar",
+      "desc": "Early in the morning leave for Leave for Srinagar, Enjoy One hour Shikara Ride in Dal Lake. Visit Shankaracharya Temple and then we visit the local market and Shalimar Garden in Srinagar, Dinner and overnight stay at the hotel/Houseboat in Srinagar"
+    },
+    {
+      "day": "Day 5",
+      "title": "Sonmarg Excursion",
+      "desc": "Today you embark on a full day excursion to the picturesque 'meadow of gold’ Sonamarg. The fast flowing Sindh River makes it popular for trout and masher fishing in summer. You can opt for a pony ride to one of the glaciers for some fun in snow and ice (by your own payment). Return to the Hotel in Srinagar in the evening and enjoy comfortable overnight stay. Note: The vehicle will drop and pick you up at Sonmarg car stand. To reach the glaciers, you can hire ponies by your own payment basis. Return to the Hotel in Srinagar in the evening and enjoy comfortable overnight stay"
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Early in the morning After Breakfast Leave for Srinagar Airport to continue your journey with all the beautiful memories from the trip"
+    }
+  ],
+  "inclusions": [
+    "Airport pick-up and drop (Srinagar)",
+    "Accommodation as per itinerary",
+    "Breakfast and dinner (MAP plan)",
+    "Private vehicle (Innova)",
+    "Parking, toll taxes, fuel, and driver charges",
+    "1-hour complimentary Shikara ride",
+    "Pahalgam ABC Valley visit (Aru, Betaab, Chandanwari)",
+    "Awantipora ruins visit",
+    "Saffron fields visit (Pampore)",
+    "Gondola ride (2 phases – if included in package)",
+    "Srinagar local sightseeing",
+    "Shankaracharya Temple visit"
+  ],
+  "exclusions": [
+    " Personal expenses (shopping, laundry, tips, etc.)",
+    " Medical expenses or doctor on call",
+    " Meals other than mentioned",
+    " Adventure activities (skiing, paragliding, etc.)",
+    " Entry fees and camera charges",
+    " Guide charges"
+  ],
+  "essentialTips": [
+    "Hotels are subject to availability; similar category will be provided if needed",
+    "Valid government ID is mandatory for all travelers",
+    "Children below 5 years stay complimentary (without extra bed)",
+    "Children aged 5–12 will be charged with extra bed",
+    "Primary guest must be 18 years or above",
+    "Extra bed will be provided as mattress or folding cot",
+    "Standard check-in/check-out time: 12 PM",
+    "Early check-in/late check-out subject to availability"
+  ],
+  "stayDetails": [
+    {
+      "category": "Deluxe",
+      "items": [
+        "Srinagar – Savera Inn / Similar (2 Nights)",
+        "Houseboat – Anarkali Group / Similar (1 Night)",
+        "Pahalgam – Fifth Season / Similar (1 Night)",
+        "Gulmarg – Khalil Palace / Similar (1 Night)"
+      ]
+    },
+    {
+      "category": "Premium",
+      "items": [
+        "Srinagar – Premium hotels with better amenities",
+        "Houseboat – Upgraded deluxe houseboats",
+        "Pahalgam – Superior category hotels",
+        "Gulmarg – Enhanced comfort stays"
+      ]
+    },
+    {
+      "category": "Luxury",
+      "items": [
+        "Srinagar – Luxury hotels or resorts",
+        "Houseboat – Premium luxury houseboats",
+        "Pahalgam – High-end resorts",
+        "Gulmarg – Premium mountain resorts"
+      ]
+    }
+  ],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-13-.jpg",
+    "images/IMG-14-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [
+    "images/IMG-1-.mp4"
+  ],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

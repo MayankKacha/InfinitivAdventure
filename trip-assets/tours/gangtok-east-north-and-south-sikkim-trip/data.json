@@ -1,0 +1,106 @@
+{
+  "category": "tours",
+  "region": "Sikkim",
+  "slug": "gangtok-east-north-and-south-sikkim-trip",
+  "name": "Gangtok, East, North and South Sikkim trip",
+  "upcoming": false,
+  "duration": "9 Days / 8 Nights",
+  "route": "PICKUP from Siliguri/NJP/Bagdogra → Gangtok → EAST SIKKIM → Gangtok → Lachung → Yumthang VALLEY and ZERO POINT → Lachung → Gangtok → Gang → Namchi",
+  "startingPrice": 18900,
+  "description": null,
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "PICKUP from Siliguri/NJP/Bagdogra",
+      "desc": "Hotel on MG ROAD (no extra travelling cost) Visit MG MARG and LAL MARKET in 1 min walk East Sikkim feels like the mountains whispering stories only slow travelers can hear.\""
+    },
+    {
+      "day": "Day 2",
+      "title": "Gangtok to EAST SIKKIM",
+      "desc": "Visit the magical Tsomgo lake, Experience highest opeway in Asia (14,000 ft) Nathula Pass (Indo-China border) Baba Harbhajan Singh Mandir Stay in Gangtok \"Every turn in Gangtok feels like a postcard.\""
+    },
+    {
+      "day": "Day 3",
+      "title": "Local sight seeing in Gangtok",
+      "desc": "includes 7 points in and around Gangtok Experience Ropeway of Gangtok Tashi view point Hanuman Tok & Ganesh Tok Bulbulay Falls ( enjoy Zipline adventure) Enchey Monastery Himalayan Zoological Park Stay in Gangtok “Snowy destinations remind us that even the coldest places can foci magical.\""
+    },
+    {
+      "day": "Day 4",
+      "title": "Gangtok to Lachung",
+      "desc": "Enroute SEVEN SISTER waterfalls and AMITABH BACHCHAN waterfalls stay in Lachung"
+    },
+    {
+      "day": "Day 5",
+      "title": "Yumthang VALLEY and ZERO POINT",
+      "desc": "Experience Yumthang valley (vallery of Flowers-feb to june) SNOW covered ZERO POINT like never before (snow season nov to march/april ) stay in Lachung"
+    },
+    {
+      "day": "Day 6",
+      "title": "Lachung to Gangtok",
+      "desc": "Reach Gangtok by 2 PM Stay in Gangtok South Sikkim, wrapped in green calm.\""
+    },
+    {
+      "day": "Day 7",
+      "title": "Gangtok to Namchi",
+      "desc": "Drive to Namchi (approx. 4-5 hours drive). Check into your hotel and explore the local market. Enjoy panoramic view from Tarey Bhit Visit the Char Dham in the afternoon, a replica of all four main Hindu pilgrimage sites. Overnight stay at your hotel"
+    },
+    {
+      "day": "Day 8",
+      "title": "Nameni & Ravangla Exploration",
+      "desc": "Visit Samdruptse Hill, home to the world's largest statue of Guru Padmasambhava and enjoy panoramic views. Drive to Ravangla (approx. 1-2 hours). Visit the Buddha Park, featuring a magnificent statue of Buddha ( Tallest Buddha Statue in Sikkim). Explore Ravangla town and visit the Temi Tea Garden, the only Tea Estate in Sikkim. Stay in Ravangla"
+    },
+    {
+      "day": "Day 9",
+      "title": "Departure",
+      "desc": "NJP/Bagdogra/Siliguri drop to RAILWAY STATION, AIRPORT and HOTELS"
+    }
+  ],
+  "inclusions": [
+    "Accommodation in double & triple sharing (Deluxe rooms)",
+    "Transportation cost",
+    "Driver's allowance",
+    "Parking charges",
+    "Permits/toll taxes (Nathula Pass included)",
+    "Guide charges XNo hidden cost"
+  ],
+  "exclusions": [
+    "Anything not mentioned in indusions",
+    "Any kind of activity charges and entry fees",
+    "Zero point extra according to Govt rule",
+    "Heater Charges",
+    "Sanitation fee"
+  ],
+  "essentialTips": [
+    "1 Warm Clothes (fleece and wind cheater)",
+    "2. Hand gloves, warm caps.shoes",
+    "3 Original D",
+    "4. Reusable Water Bottle (Xuse and throw bottles not allowed]",
+    "5. Prescribed Medicines (if any)",
+    "6. Rain Jacket/Umbrella",
+    "7. Power Bank",
+    "8. Oxygen can (for North & East Sikkim - you can purchase after reaching Gangtok)"
+  ],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-13-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

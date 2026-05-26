@@ -1,0 +1,80 @@
+{
+  "category": "trekking",
+  "region": "Ladakh",
+  "slug": "nubara-valley-trek",
+  "name": "Nubara valley Trek",
+  "upcoming": false,
+  "duration": "9 Days / 8 Nights",
+  "route": "Leh → Khardung La → Diskit → Hunder → Turtuk → Sumur → Panamik → Leh",
+  "startingPrice": null,
+  "description": "ROUTE: :Hunder – Skarchan - Hunder Dok – Thanglasgo - Lasermo La - Lasermo La South Base - Morubuk The Nubra Valley Trek is an unforgettable journey through Ladakh’s mesmerizing landscapes. This high-altitude trek takes adventurers across the cold desert of Nubra Valley. Trekkers traverse remote villages, monasteries, sand dunes, and the Shyok River, with breathtaking views of the Karakoram Range. The trek offers cultural immersion with stops at ancient monasteries like Diskit and Samstanling, while the sight of Bactrian (double-humped) camels roaming the dunes adds to its uniqueness. This trek is a perfect mix of adventure, culture, and stunning Himalayan scenery. Nubra Valley Trekking Route and Experience The Nubra Valley trek begins from Hunder (3160 m), renowned for its picturesque sand dunes alongside double-humped camels. From here, trekkers trek towards Skarchan following the Shyok River. The next stretch, from Skarchan to Hunder Dok (4061 m) takes you through lush pastures where yaks and dzos (a hybrid of a cow and a yak) graze, offering a contrast to the arid landscape of Ladakh. Trekkers then confront an increasingly steep ascent, which takes them through the alpine meadows while offering impressive landscape views from Hunder Dok to Thanglasgo (4500 m). Then, a trek from Thanglasgo reaches Lasermo La which stands at 5,438 m and is the trek's highest point. This challenging stretch of trail rewards trekkers with spectacular views of both the Karakoram and Ladakh mountain ranges. The trail then descends from Lasermo La towards Lasermo La South Base (4955 m), and continues to Morubuk (4053 m), which is the final destination of the Nubra Valley Trek.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival Leh (Complete Rest in Leh for acclimatisation)",
+      "desc": "Take the morning flight for Leh. Check into the guest house and relax the whole day. This is necessary for getting acclimatised. Overnight at the guesthouse"
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh - Shey - Thiksey - Hemis",
+      "desc": "On this day you will go a sightseeing trip to some ancient monasteries in this area. Shey Gompa is about 15 kms from Leh. It used to be the summer palace of the kings of Ladakh. There are lots of Stupas and Gompas built around the palace. Shey palace was built by Deldan Namgyal in the beginning of 17'Th century AD. Main attraction in Shey is the 12m Shakyamuni Buddha Statue inside the Dresthang Gompa. Thiksey Gompa, close to Shey is about 17 kms from Leh. The monastery is considered to be one of the most beautiful in Ladakh and belongs to the Gelukspa order. Hemis, about 45 kms south of Leh it is one of the most famous and largest monastery in Ladakh. It belongs to the Drukpa order and was founded in the early 17'Th century. The setting is perfect with the monastery cradled in a lovely valley, surrounded by streams and fronted by long Mani walls. Overnight stay at the guest house"
+    },
+    {
+      "day": "Day 3",
+      "title": "Leh - Sabu Village",
+      "desc": "(3480 mts/11415 ft) In the morning drive to Sabu village"
+    },
+    {
+      "day": "Day 4",
+      "title": "Sabu Village - Digar La Pass",
+      "desc": "After an early breakfast trek to cross Digar La (6000 mts). Then descend down to Digar Village. Overnight stay in village"
+    },
+    {
+      "day": "Day 5",
+      "title": "Digar Village - Agyam Village",
+      "desc": "In the morning trek to Agyam. The treks go through along the river Shyok. On arrival set out camp for overnight stay at Agyam village. Dinner and overnight stay at village"
+    },
+    {
+      "day": "Day 6",
+      "title": "Agyam village - Khalsar Village",
+      "desc": "In the morning we will trek up to khalsar village. Dinner and overnight stay in village"
+    },
+    {
+      "day": "Day 7",
+      "title": "Khalsar Village - Diskit",
+      "desc": "After breakfast trek to Sumur. Visit to Samtenling Gompa and continue trek to Diskit. Visit to 350 year old Diskit Gompa. Dinner and overnight stay at Diskit"
+    },
+    {
+      "day": "Day 8",
+      "title": "Diskit - Leh",
+      "desc": "In the morning drive back to Leh. On arrival check in to guest house. Evening free to explore the local market. Overnight stay"
+    },
+    {
+      "day": "Day 9",
+      "title": "Departure Leh",
+      "desc": "Transfer to the airport for the spectacular flight across the main chain of the Himalaya to your city"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": "June to October",
+  "trekFacts": {
+    "DIFFICULTY LEVEL": "Easy to Moderate",
+    "ALTITUDE": "3160 m (Hunder), 5438 m (Lasermo La)"
+  },
+  "photos": [
+    "images/nubra-valley-trek-banner.webp",
+    "images/nubra-valley-trek1.webp",
+    "images/nubra-valley-trek2.webp",
+    "images/nubra-valley-trek3.webp",
+    "images/nubra-valley-trek4.webp",
+    "images/nubra-valley-trek5.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/nubra-valley-trek-banner.webp",
+  "hasData": true
+}

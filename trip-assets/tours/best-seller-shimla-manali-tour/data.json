@@ -1,0 +1,90 @@
+{
+  "category": "tours",
+  "region": "Himachal",
+  "slug": "best-seller-shimla-manali-tour",
+  "name": "Best Seller Shimla - Manali Tour",
+  "upcoming": false,
+  "duration": "6 Days / 5 Nights",
+  "route": "Best Seller Shimla → Manali Tour",
+  "startingPrice": null,
+  "description": "Our exclusive tour covers some of the most famous sites in the region. although our Shimla Manali Tour remains one of the most sought-after travel options, this specially designed package offers a more in-depth exploration of the culture and natural beauty of both towns. Starting from your picturesque abode at the stunning Wildflower Hall, set in the midst of sylvan pine forests. Enjoy a moment of tranquillity at Indira Holiday Home, then explore Shimla’s spiritual side with visits to the iconic Kalibari Temple, the hilltop Jakhu Temple, which is dedicated to Lord Hanuman, and the peaceful Sankat Mochan Temple. You will be delighted with alluring views of stunning Kullu Valley, where the Beas River flows through hillocks. Dashehra Maidan throbs with a festive air that reflects the spirit of the region. The Mahabharat epic, legends of the Hadimba Devi Temple, and Manu Temple are all respected there, giving visitors a feel for its historical and mythological significance. Explore the sacredness of the Tibetan Monastery and relax in the hot springs of the Vashisht Temple.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi - Shimla",
+      "desc": "Morning Pick up from airport and drive to Shimla. Arrive and check in at hotel. Later proceed for sight seeing tour to Wildflower Hall, Indira Holiday Home, Advance Study & Museum. Overnight stay at Shimla"
+    },
+    {
+      "day": "Day 2",
+      "title": "Local sightseeing at Shimla",
+      "desc": "Morning proceed for sightseeing tour of Shimla covering Kalbadevi Temple, Jakhu Temple, Hanuman Temple or stop for a while at the beautiful stained - glass - windows of Christ Church. Afternoon excursion to Kufri- a 30 Minutes drive from Shimla. Evening free to enjoy the scenic beauty of Kufri. Also visit Fagu, and enjoy horse riding in the apple orchids (optional). Rest of the day is free to explore. Overnight stay at Shimla"
+    },
+    {
+      "day": "Day 3",
+      "title": "Shimla - Manali",
+      "desc": "Morning drive to Manali (7-8 hr). Pass by beautiful Kullu valley, Beas river, Dashehra maidan etc. Arrive and check in at hotel. Evening free to explore Manali. Overnight stay in Manali"
+    },
+    {
+      "day": "Day 4",
+      "title": "Local Sight Seeing of Manali Town",
+      "desc": "Arrival at Manali, after breakfast, proceed on a day city tour visiting Hadimba Temple, Manu Temple, Vashisht Temple, and Tibetan Monastery. Evening free for roam on your own. Overnight stay at Manali"
+    },
+    {
+      "day": "Day 5",
+      "title": "Manali - Rohtang Pass - Manali",
+      "desc": "(51 Kms.) Full-day excursion visiting Kothi, Gulaba Fall, Marhi, Rohtang Pass and Solang Valley. Overnight stay at Manali hotel"
+    },
+    {
+      "day": "Day 6",
+      "title": "Tour End",
+      "desc": "Morning check - out from the hotel. And drive back to Delhi with memories of a lifetime trip"
+    }
+  ],
+  "inclusions": [
+    "Accommodation in well appointed 3 deluxe rooms",
+    "Daily Breakfast and dinner at hotel",
+    "Pick up from delhi airport/railway station",
+    "Shimla Sightseeing by private vehicle",
+    "Manali Sightseeing by private vehicle",
+    "All Sightseeing in private cab",
+    "Drop to delhi airport/railway station"
+  ],
+  "exclusions": [
+    "Any airfare/ticket to delhi",
+    "Rohtang sightseeing is not included in the cost",
+    "Anything none mentioned above"
+  ],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/manaliwaladost-20260502-0002.jpg",
+    "images/mr-branthan-20260412-0004.jpg",
+    "images/nature-life-is-love-20260502-0009.jpg",
+    "images/onkarlele-20260502-0004.jpg",
+    "images/onkarlele-20260502-0008.jpg",
+    "images/prajitm-20260502-0004.jpg",
+    "images/prajitm-20260502-0006.jpg",
+    "images/prajitm-20260502-0007.jpg",
+    "images/pranaychilling-20260502-0002.jpg",
+    "images/pranaychilling-20260502-0004.jpg",
+    "images/purveshh.03-20260502-0019.jpg",
+    "images/sonia-pahadisoul-20260502-0007.jpg",
+    "images/sonia-pahadisoul-20260502-0013.jpg",
+    "images/sonia-pahadisoul-20260502-0014.jpg",
+    "images/sonia-pahadisoul-20260502-0016.jpg",
+    "images/sonia-pahadisoul-20260502-0017.jpg",
+    "images/sonia-pahadisoul-20260502-0019.jpg",
+    "images/sonia-pahadisoul-20260502-0020.jpg",
+    "images/sonia-pahadisoul-20260502-0025.jpg",
+    "images/sonia-pahadisoul-20260502-0026.jpg",
+    "images/sonia-pahadisoul-20260502-0027.jpg",
+    "images/storiesofsaall-20260502-0007.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/manaliwaladost-20260502-0002.jpg",
+  "hasData": true
+}

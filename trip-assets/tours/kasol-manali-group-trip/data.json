@@ -1,0 +1,101 @@
+{
+  "category": "tours",
+  "region": "Himachal",
+  "slug": "kasol-manali-group-trip",
+  "name": "Kasol Manali Group Trip",
+  "upcoming": false,
+  "duration": "8 Days / 7 Nights",
+  "route": "Kasol → Kasol Exploration & Manikaran Visit → Kasol → Manali → Kullu → Sissu & Solang Valley → Atal Tunnel → Manali → Chandigarh & Train Journey",
+  "startingPrice": null,
+  "description": null,
+  "highlights": [
+    "Scenic train journey from Ahmedabad to Chandigarh",
+    "Explore the peaceful vibes of Kasol and Parvati Valley",
+    "Visit Manikaran Gurudwara and local markets",
+    "Riverside café hopping experience in Kasol",
+    "Adventure activities: river rafting in Kullu & paragliding",
+    "Visit Atal Tunnel and the picturesque village of Sissu",
+    "Explore Solang Valley and Manali attractions",
+    "Group bonding activities and fun travel experiences",
+    "Route Overview",
+    "Ahmedabad → Chandigarh → Kasol → Manali → Solang Valley → Sissu → Chandigarh → Ahmedabad",
+    "Essential Travel Information",
+    "Carry valid ID proof for travel and hotel check-ins",
+    "Weather in Himachal can be unpredictable; pack warm clothing",
+    "Adventure activities are optional and payable directly",
+    "Comfortable footwear is recommended for sightseeing and short treks",
+    "Follow safety instructions during activities and travel"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Departure from Ahmedabad (Train Journey)",
+      "desc": "Report at Gandhinagar Railway Station Board train for Chandigarh Enjoy overnight journey through Gujarat, Rajasthan, and Haryana Engage in group activities and interactions onboard"
+    },
+    {
+      "day": "Day 2",
+      "title": "Arrival in Chandigarh & Transfer to Kasol",
+      "desc": "Arrive at Chandigarh in the morning Drive to Kasol (approx. 7–8 hours) Check-in and relax upon arrival Dinner and overnight stay in Kasol"
+    },
+    {
+      "day": "Day 3",
+      "title": "Kasol Exploration & Manikaran Visit",
+      "desc": "Breakfast at hotel Visit Manikaran Gurudwara Explore Kasol Market Evening café hopping by the riverside Dinner and overnight stay in Kasol"
+    },
+    {
+      "day": "Day 4",
+      "title": "Kasol to Manali via Kullu (Adventure Day)",
+      "desc": "Breakfast and departure for Manali En route enjoy: River rafting in Beas River (optional) Paragliding experience (optional) Arrival in Manali and check-in Dinner and overnight stay"
+    },
+    {
+      "day": "Day 5",
+      "title": "Sissu & Solang Valley via Atal Tunnel",
+      "desc": "Breakfast at hotel Drive through Atal Tunnel to Sissu Explore Solang Valley and enjoy scenic views Visit Sissu village in Lahaul Valley Return to Manali Dinner and overnight stay"
+    },
+    {
+      "day": "Day 6",
+      "title": "Manali Local Sightseeing",
+      "desc": "Breakfast at hotel Visit major attractions: Hadimba Devi Temple Vashisht Temple (hot springs) Mall Road and Old Manali Optional short trek to Jogini Waterfall Evening free for shopping and leisure Dinner and overnight stay"
+    },
+    {
+      "day": "Day 7",
+      "title": "Return to Chandigarh & Train Journey",
+      "desc": "Morning departure to Chandigarh Board train back to Ahmedabad Enjoy overnight journey with group"
+    },
+    {
+      "day": "Day 8",
+      "title": "Arrival in Ahmedabad",
+      "desc": "Reach Ahmedabad by afternoon Trip concludes with memorable experiences ✅ Inclusions Train tickets (Ahmedabad–Chandigarh–Ahmedabad) Accommodation on sharing basis (2/3 sharing) Daily breakfast and dinner (as per itinerary) Tempo Traveller for local transportation Sightseeing as per itinerary Trip leader and 24/7 assistance All tolls, parking charges, and permits ❌ Exclusions GST (5%) Adventure activity charges (rafting, paragliding, etc.) Lunch and meals during transit Personal expenses (shopping, snacks, laundry, etc.) Additional costs due to weather, roadblocks, or delays Any services not mentioned in inclusions"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-13-.jpg",
+    "images/IMG-14-.jpg",
+    "images/IMG-15-.jpg",
+    "images/IMG-16-.jpg",
+    "images/IMG-17-.jpg",
+    "images/IMG-18-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

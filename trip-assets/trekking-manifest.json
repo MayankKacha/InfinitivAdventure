@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.0",
+  "category": "trekking",
+  "trips": [
+    {
+      "slug": "markha-valley-trek",
+      "name": "Markha Valley Trek",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/markha-valley-trek/data.json"
+    },
+    {
+      "slug": "chadar-trek-frozen-river",
+      "name": "Chadar Trek ( Frozen River )",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/chadar-trek-frozen-river/data.json"
+    },
+    {
+      "slug": "sham-valley-trek",
+      "name": "Sham valley Trek",
+      "region": "Ladakh",
+      "upcoming": true,
+      "hasData": true,
+      "path": "trekking/sham-valley-trek/data.json"
+    },
+    {
+      "slug": "nubara-valley-trek",
+      "name": "Nubara valley Trek",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/nubara-valley-trek/data.json"
+    },
+    {
+      "slug": "kashmir-great-lakes-trek",
+      "name": "Kashmir Great Lakes Trek",
+      "region": "Kashmir",
+      "upcoming": false,
+      "hasData": false,
+      "path": "trekking/kashmir-great-lakes-trek/data.json"
+    },
+    {
+      "slug": "tarsar-marsar-trek",
+      "name": "Tarsar Marsar Trek",
+      "region": "Kashmir",
+      "upcoming": true,
+      "hasData": false,
+      "path": "trekking/tarsar-marsar-trek/data.json"
+    },
+    {
+      "slug": "kolahoi-glacier-trek",
+      "name": "Kolahoi Glacier Trek",
+      "region": "Kashmir",
+      "upcoming": true,
+      "hasData": false,
+      "path": "trekking/kolahoi-glacier-trek/data.json"
+    },
+    {
+      "slug": "naranag-mahlish-lake-trek",
+      "name": "Naranag Mahlish Lake Trek",
+      "region": "Kashmir",
+      "upcoming": true,
+      "hasData": false,
+      "path": "trekking/naranag-mahlish-lake-trek/data.json"
+    },
+    {
+      "slug": "kheerganga-trek",
+      "name": "Kheerganga Trek",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "trekking/kheerganga-trek/data.json"
+    },
+    {
+      "slug": "hampta-pass-trek",
+      "name": "Hampta Pass Trek",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/hampta-pass-trek/data.json"
+    },
+    {
+      "slug": "chandratal-lake-trek",
+      "name": "Chandratal Lake Trek",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/chandratal-lake-trek/data.json"
+    },
+    {
+      "slug": "bhrigu-lake-trek",
+      "name": "Bhrigu lake Trek",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": false,
+      "path": "trekking/bhrigu-lake-trek/data.json"
+    },
+    {
+      "slug": "goecha-la-trek",
+      "name": "Goecha La Trek",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/goecha-la-trek/data.json"
+    },
+    {
+      "slug": "green-lake-trek",
+      "name": "Green Lake Trek",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/green-lake-trek/data.json"
+    },
+    {
+      "slug": "kanchenjunga-base-camp-trek",
+      "name": "Kanchenjunga Base Camp Trek",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/kanchenjunga-base-camp-trek/data.json"
+    },
+    {
+      "slug": "singalila-sandakphu-trek",
+      "name": "Singalila Sandakphu Trek",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "trekking/singalila-sandakphu-trek/data.json"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Ladhak Kargil",
+  "slug": "ladakh-kargil",
+  "region": "Ladakh",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "June - September",
+  "startingPrice": 24500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Extraordinary journey from lush valleys of Kashmir to the rugged high-altitude landscapes of Ladakh.",
+  "route": "Srinagar → Kargil → Leh → Nubra Valley → Pangong Lake → Leh",
+  "highlights": [
+    "Mughal Gardens Srinagar",
+    "Zoji La Pass",
+    "Drass War Memorial",
+    "Lamayuru Monastery",
+    "Nubra Valley & Pangong Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival Srinagar",
+      "desc": "Gardens, Shikara ride."
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar to Kargil",
+      "desc": "Via Sonmarg and Zoji La."
+    },
+    {
+      "day": "Day 3",
+      "title": "Kargil to Leh",
+      "desc": "Lamayuru, Magnetic Hill, Confluence."
+    },
+    {
+      "day": "Day 4",
+      "title": "Leh Local",
+      "desc": "Thiksey, Shey, Hemis."
+    },
+    {
+      "day": "Day 5",
+      "title": "Leh to Nubra",
+      "desc": "Via Khardung La."
+    },
+    {
+      "day": "Day 6",
+      "title": "Nubra to Pangong",
+      "desc": "Via Shyok."
+    },
+    {
+      "day": "Day 7",
+      "title": "Pangong to Leh",
+      "desc": "Via Chang La."
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "Fly out of Leh."
+    }
+  ],
+  "inclusions": [
+    "Transport",
+    "Accommodations",
+    "Meals",
+    "Oxygen"
+  ],
+  "exclusions": [
+    "Flights",
+    "Adventure",
+    "Union cabs"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 24500,
+      "details": [
+        "Budget/Standard"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 34500,
+      "details": [
+        "Comfortable/Upgraded"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 48500,
+      "details": [
+        "Luxury/Premium level"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/ladakh-4.jpg"
+  ],
+  "coverPhoto": "images/ladakh-4.jpg",
+  "essentialTips": [
+    "Prep for long drives",
+    "High altitude adjustments"
+  ]
+}

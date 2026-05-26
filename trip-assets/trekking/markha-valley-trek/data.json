@@ -1,0 +1,91 @@
+{
+  "category": "trekking",
+  "region": "Ladakh",
+  "slug": "markha-valley-trek",
+  "name": "Markha Valley Trek",
+  "upcoming": false,
+  "duration": "11 Days / 10 Nights",
+  "route": "Chilling → Skiu → Markha → Hankar → Nimaling → Kongmaru La → Shang Sumdo",
+  "startingPrice": null,
+  "description": "The Markha Valley Trek is one of the most challenging and rewarding treks in Ladakh. As the largest valley in Ladakh, Markha Valley showcases stunning landscape featuring barren mountains, high-altitude meadows, and dramatic gorges and glacial rivers. A highlight of this demanding trek is the Kongmaru La Pass (5,260m), the highest point of the route, which offers unparalleled panoramic views of the Karakoram and Ladakh ranges, along with the towering Mt. Kang Yatse (6,400m). Trekkers also pass through the Hemis National Park, home to rare Himalayan wildlife such as blue sheep, Himalayan marmots, and even the elusive snow leopard. Adding to the spiritual essence of the journey, the Tacha Monastery, nestled in the remote wilderness, provides a serene retreat. The trek is physically demanding, involving multiple river crossings, steep ascents, and long trekking hours at high altitudes. Markha Valley Trekking Route and Experience The Markha Valley trek begins at Chilling (3200 m), where trekkers cross the Zanskar River by a pulley bridge. Next, one has to trek 9 km to reach Skiu (3400 m), a tranquil village which stands beneath enormous cliffs. A trail of 20 kms leads trekkers to Markha (3767 m), where trekkers visit historic monasteries and lush barley fields. The trek progresses 11 km from Markha to Hankar (4264 m), where dramatic rock formations and grazing yaks can be seen. A steep ascent of 10 km leads trekkers to Nimaling, which lies at 4700 m and features a vast meadow. Nomadic shepherds and Kang Yatse Peak can be spotted from here. The stretch of 12 km from Nimaling to Chokdo (3901 m) is full of obstacles, as the trekkers have to cross Kongmaru La (5,260 m), the trek's highest point. The trekking trail is challenging but spectacular views of Karakoram and Ladakh ranges make all the effort worth it. The final descent of 5 km to Shang Sumdo (3697 m) is a gentle one, passing through stunning canyons and streams.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival Leh (Complete Rest in Leh for acclimatisation)",
+      "desc": "Take the morning flight for Leh. Check into the guest house and relax the whole day. This is necessary for getting acclimatised. Overnight at the guesthouse"
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh - Shey - Thiksey - Hemis",
+      "desc": "On this day you will go a sightseeing trip to some ancient monasteries in this area. Shey Gompa is about 15 kms from Leh. It used to be the summer palace of the kings of Ladakh. There are lots of Stupas and Gompas built around the palace. Shey palace was built by Deldan Namgyal in the beginning of 17Th century AD. Main attraction in Shey is the 12m Shakyamuni Buddha Statue inside the Dresthang Gompa. Thiksey Gompa, close to Shey is about 17 kms from Leh. The monastery is considered to be one of the most beautiful in Ladakh and belongs to the Gelukspa order. Hemis, about 45 kms south of Leh it is one of the most famous and largest monastery in Ladakh. It belongs to the Drukpa order and was founded in the early 17Th century. The setting is perfect with the monastery cradled in a lovely valley, surrounded by streams and fronted by long Mani walls. Overnight stay at the guest house"
+    },
+    {
+      "day": "Day 3",
+      "title": "Leh - Spitok (drive) - Trek To Zinchen",
+      "desc": "(3200 mts/10500 ft) Leave Leh early morning by Jeeps and reach Spituk (1 hr). Visit the Spituk Gompa, built about 500 years ago. Start the trek from here by crossing a bridge and walking south-west of the river Indus. The gorge section leads to the confluence of Indus and Zinchen. Camp near the village of Zinchen. Overnight in Tents"
+    },
+    {
+      "day": "Day 4",
+      "title": "Zinchen - Yurutse via Rumbak",
+      "desc": "(3900 mts / 12792 ft) It's a gradual climb from Zinchen to Rumbak. From here one gets fabulous views of the snow capped Stok Mountains. From here we move along the Rumbak Nala towards Yurutse. At Yurutse village you will find fields of barley and potatoes. Overnight in Tents"
+    },
+    {
+      "day": "Day 5",
+      "title": "Yurutse - Skiu via Ganda La",
+      "desc": "(3100 mts / 10170 ft) A gradual ascent followed by a steep climb gets one to the Ganda la (4900 M). From here views extend south to the Zanskar range and distant summits of the Himalayan range. This is followed by a long descent to Shingo village. From Shingo the trail heads into a narrow gorge leading towards Skiu. At Skiu there is a confluence of the rivers coming from Markha valley and Shingo. Overnight in Tents"
+    },
+    {
+      "day": "Day 6",
+      "title": "Skiu - Markha",
+      "desc": "(3800 mts / 12470 ft) Its a very pleasant hike, up the Markha valley today with the trail crossing numerous streams. Markha is a quaint village with a deserted fort and a small village Overnight in Tents"
+    },
+    {
+      "day": "Day 7",
+      "title": "Markha - Thochuntse",
+      "desc": "From Markha the country changes and the warm, relatively heavily wooded sections of the lower Markha is left behind. One will be required to cross the river several times as there are no bridges here. Hankar, en route, is the highest village in the Markha valley. Overnight in Tents"
+    },
+    {
+      "day": "Day 8",
+      "title": "Thochuntse - Nimaling",
+      "desc": "(4700 mts / 15415 ft) Trek starts on a good path with several small inclines and a series of grassy ridges. There are a series of mani walls (walls carved with Buddhist prayers) and chortens en route. This is one of the most beautiful high valleys in Ladakh and is dominated by the Kangyaze peak. Overnight in Tents"
+    },
+    {
+      "day": "Day 9",
+      "title": "Nimaling - Kongmaru La - Sumdo",
+      "desc": "(5150 mts/16890 ft) Today one will cross to the north of the Markha, climbing to the top of the highest of the three passes, the 5,306 M Kongmaru La, with its wonderful views from the top. There are snow peaks in every direction and on a clear day the giants of Karakoram, including K2, can be seen on the north-western horizon. The trail descends to the Martselang valley, following the Martselang stream to the village of Sumdo. Overnight in tents"
+    },
+    {
+      "day": "Day 10",
+      "title": "Sumdo - Hemis - Leh",
+      "desc": "(4 Hrs Trek) Today make an easy descent along the Martselang to where it broadens into the valley of the Indus at Martselang village. Board the awaiting jeeps. Visit Hemis monastery and after that drive to Leh via Shey and Thiksey monastery. Overnight in a hotel"
+    },
+    {
+      "day": "Day 11",
+      "title": "Departure",
+      "desc": "Transfer to the airport for the spectacular flight across the main chain of the Himalaya to your home"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {
+    "DIFFICULTY LEVEL": "Moderate to Difficult",
+    "ALTITUDE": "3195 m (Chilling), 5260 m (Kongmaru La)",
+    "TREKKING ROUTE": "Chilling – Skiu – Markha – Hankar – Nimaling – Chokdo - Shang Sumdo"
+  },
+  "photos": [
+    "images/markha-valley-trek-banner.webp",
+    "images/markha-valley-trek1.webp",
+    "images/markha-valley-trek2.webp",
+    "images/markha-valley-trek3.webp",
+    "images/markha-valley-trek4.webp",
+    "images/markha-valley-trek5.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/markha-valley-trek-banner.webp",
+  "hasData": true
+}

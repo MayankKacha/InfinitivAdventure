@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "tours": [
+    {
+      "region": "Himachal",
+      "slug": "shimla-manali-explorer",
+      "path": "himachal/shimla-manali-explorer/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "winter-spiti-valley",
+      "path": "himachal/winter-spiti-valley/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "kasol-manali-group-trip",
+      "path": "himachal/kasol-manali-group-trip/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "shimla-manali-experience",
+      "path": "himachal/shimla-manali-experience/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "shimla-manali-kasol-escape",
+      "path": "himachal/shimla-manali-kasol-escape/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "summer-spiti-valley",
+      "path": "himachal/summer-spiti-valley/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "shimla-manali-dalhousie-amritsar",
+      "path": "himachal/shimla-manali-dalhousie-amritsar/itinerary.json"
+    },
+    {
+      "region": "Himachal",
+      "slug": "spiti-valley-road-trip-chandratal",
+      "path": "himachal/spiti-valley-road-trip-chandratal/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "majestic-kashmir-tour",
+      "path": "kashmir/majestic-kashmir-tour/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-bliss-escape",
+      "path": "kashmir/kashmir-bliss-escape/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-tour-package",
+      "path": "kashmir/kashmir-tour-package/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-grand-tour",
+      "path": "kashmir/kashmir-grand-tour/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-explorer-gurez",
+      "path": "kashmir/kashmir-explorer-gurez/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "heavenly-kashmir-odyssey",
+      "path": "kashmir/heavenly-kashmir-odyssey/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-valley-serenity-escape",
+      "path": "kashmir/kashmir-valley-serenity-escape/itinerary.json"
+    },
+    {
+      "region": "Kashmir",
+      "slug": "kashmir-complete-explorer-old",
+      "path": "kashmir/kashmir-complete-explorer-old/itinerary.json"
+    },
+    {
+      "region": "Ladakh",
+      "slug": "leh-ladakh-tour",
+      "path": "ladakh/leh-ladakh-tour/itinerary.json"
+    },
+    {
+      "region": "Ladakh",
+      "slug": "amazing-ladakh-tour",
+      "path": "ladakh/amazing-ladakh-tour/itinerary.json"
+    },
+    {
+      "region": "Ladakh",
+      "slug": "ladakh-kargil",
+      "path": "ladakh/ladakh-kargil/itinerary.json"
+    },
+    {
+      "region": "Ladakh",
+      "slug": "srinagar-to-ladakh-adventure-old",
+      "path": "ladakh/srinagar-to-ladakh-adventure-old/itinerary.json"
+    },
+    {
+      "region": "Ladakh",
+      "slug": "kashmir-ladakh-turtuk-old",
+      "path": "ladakh/kashmir-ladakh-turtuk-old/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "east-himalaya-bliss",
+      "path": "sikkim/east-himalaya-bliss/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "east-himalayan-grandeur",
+      "path": "sikkim/east-himalayan-grandeur/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "mystic-sikkim-lachung",
+      "path": "sikkim/mystic-sikkim-lachung/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "budget-himalayan-escape",
+      "path": "sikkim/budget-himalayan-escape/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "sikkim-darjeeling-grand-old",
+      "path": "sikkim/sikkim-darjeeling-grand-old/itinerary.json"
+    },
+    {
+      "region": "Sikkim",
+      "slug": "gangtok-pelling-scenic-old",
+      "path": "sikkim/gangtok-pelling-scenic-old/itinerary.json"
+    }
+  ]
+}

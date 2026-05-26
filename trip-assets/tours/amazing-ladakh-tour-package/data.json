@@ -1,0 +1,108 @@
+{
+  "category": "tours",
+  "region": "Ladakh",
+  "slug": "amazing-ladakh-tour-package",
+  "name": "Amazing Ladakh Tour Package",
+  "upcoming": false,
+  "duration": "6 Days / 5 Nights",
+  "route": "Leh → Nubra Valley → Pangong Lake → Leh",
+  "startingPrice": null,
+  "description": "Discover the breathtaking landscapes of Ladakh with this well-planned 6-day journey. Situated at an altitude of around 12,500 ft, Leh serves as the gateway to this incredible region filled with mountains, monasteries, lakes, and valleys. This itinerary is designed to give you a complete Ladakh experience, covering Leh, Nubra Valley, and the iconic Pangong Lake. With a proper balance of sightseeing and acclimatization, this trip is ideal for travelers seeking both comfort and adventure.",
+  "highlights": [
+    "Enjoy panoramic views from Shanti Stupa",
+    "Visit Hall of Fame Museum and Gurudwara Patthar Sahib",
+    "Experience the mystery of Magnetic Hill",
+    "Witness the Indus–Zanskar river confluence",
+    "Cross Khardung La Pass, one of the highest motorable roads",
+    "Explore Nubra Valley and Hunder Sand Dunes",
+    "Optional camel ride on rare double-humped camels",
+    "Visit the stunning Pangong Lake",
+    "Drive through the scenic Shyok route",
+    "Cross Chang La Pass on the return journey"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Leh Airport and transfer to hotel",
+      "desc": "Upon arrival at the airport, one of our representatives will meet you and will set off to hotel in the heart of the Leh Town, rest for the day & acclimatize to the high altitude of Ladakh. During day or evening, you will meet our representative who will introduce you to the highlights of the entire tour. In the evening, you will take a walk to Market and visit Shanti Stupa on the hill to get a panoramic view of Leh town. Overnight Hotel in Leh"
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh Local Sightseeing",
+      "desc": "After breakfast drive towards western part of Ladakh along the Indus River on Leh Srinagar highway, start sightseeing. Visit Hall of Fame (Museum founded by India Army) near Leh is worth a visit for every Indian, and proceed further to Gurudwara Patthar Sahib founded in 15th century, nestled deep in the Himalayas, drive ahead another 5 km for Magnetic Hill which defies the law of gravity & further Driving through a picturesque landscape & visit Sangam - The Confluence of The Indus and Zanskar River. After visiting above, places drive back to Leh. Distance 70-80 km approx Overnight at hotel in Leh"
+    },
+    {
+      "day": "Day 3",
+      "title": "Drive through Khardung La Pass . Arrive in Nubra Valley (Valley of Flowers)",
+      "desc": "After breakfast drive towards to Nubra Valley, driving across Khardong-la (Second Highest Motor able Road in the World alt: 5602Mts/18390Ft). After descending from the pass, Nubra Valley is popularly known as Ldorma or the valley of flowers. It is situated to the north of Ladakh between the Karakoram and Ladakh ranges of the Himalayas. Arrive at Hunder & check in at Hotel/Camps. Later visit Deskit monastery & the Sand Dunes where you can enjoy a short camel safari using the double-humped Bactrian camel found here (optional on direct payment). Distance 160 km approx Overnight at Hotel / Camp"
+    },
+    {
+      "day": "Day 4",
+      "title": "Travel to Pangong Lake via scenic Shyok route",
+      "desc": "(Note: Route depends on weather conditions; alternate plan via Leh if required.) After breakfast, leave for Pangong Lake via Shayok. Along the route, enjoy the scenic views of Shayok River & Karakoram Range. This route has few water crossings mainly in the month of June & July, to avoid these you need to leave early from Nubra. Reach Pangong Lake by afternoon. The lake is world highest saltwater lake situated at an elevation of 4,225 m. extending to almost 130 km long, 1/3 of its lies in India and 2/3 in China). NOTE: THIS ROUTE DEPENDS ON WEATHER CONDITIONS. IF ROUTE BLOCK OCCURS REACH BACK TO Leh & STAY OVERNIGH. NEXT DAY Pangong LAKE VISIT WILL BE ONE DAY TRIP Distance 160 km approx Check in at Camp / Cottage in Pangong"
+    },
+    {
+      "day": "Day 5",
+      "title": "Return to Leh via Chang La Pass",
+      "desc": "After breakfast, leave for Leh across another one of the highest motor able roads in the world, Chang La Pass at an elevation of 5360 M. On the way visiting Shey Palace, Rancho School & Thiksey Monastery. Reach Leh by afternoon/evening, Check in at hotel. Rest & later have a leisure evening in the Leh market. Distance 160 km approx Overnight stay at Hotel Leh"
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Concludes. Our teams thank you for your patronage and ensure a punctual drop to Airport to catch the flight for your onward journey"
+    }
+  ],
+  "inclusions": [
+    "3 Nights stay in Leh with breakfast & dinner",
+    "1 Night stay in Nubra Valley (camp/hotel) with meals",
+    "1 Night stay in Pangong (camp/cottage) with meals",
+    "Airport pick-up and drop (Leh)",
+    "Private vehicle (Innova/Xylo/Scorpio/Ertiga or Tempo Traveller)",
+    "Experienced driver",
+    "Oxygen cylinder (for Nubra & Pangong)",
+    "Toll taxes and parking charges",
+    "First aid kit",
+    "24x7 travel assistance"
+  ],
+  "exclusions": [
+    " Airfare and GST",
+    " Personal expenses (shopping, laundry, tips, etc.)",
+    " Entry fees and camera charges",
+    " Adventure activities (camel ride, rafting, ATV, etc.)",
+    " Travel insurance and medical expenses",
+    " Vehicle service during leisure time",
+    " Extra costs due to weather, delays, or roadblocks",
+    " AC vehicle (available at additional cost)"
+  ],
+  "essentialTips": [
+    "Carry valid government ID (Aadhar / Passport / Voter ID)",
+    "Use postpaid SIM cards for better network connectivity",
+    "Pack warm clothing including thermals and jackets",
+    "Carry sunscreen, moisturizer, and sunglasses",
+    "Stay hydrated to avoid altitude sickness",
+    "Start journeys early due to weather conditions",
+    "Stay category"
+  ],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-13-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

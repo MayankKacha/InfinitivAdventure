@@ -1,0 +1,77 @@
+{
+  "category": "trekking",
+  "region": "Sikkim",
+  "slug": "singalila-sandakphu-trek",
+  "name": "Singalila Sandakphu Trek",
+  "upcoming": false,
+  "duration": "9 Days / 8 Nights",
+  "route": "Manebhanjan → Tonglu → Tumling → Kalapokhri → Sandakphu → Phalut → Gorkhey → Srikhola",
+  "startingPrice": null,
+  "description": "Trekking at the major ranges of Singalila and Sandakphu is yet another marvelous experience at Sikkim. This interesting trekking that starts off from an altitude of 1,524 meters (5,000 ft) and takes you across the rugged forests of rhododendron, giant magnolias, spruce and other species of sub-alpine region and around more than 600 varieties of orchids- the largest to be found in one geographical area in the world. Those who really love the ambiguity of the floral varieties in the region, the spring months would be the best season for them. And those who wish to witness the greenery of the lushly mountains all around the Sikkim trails, the autumn season is the perfect timing for them. The trekkers can also find the unsurpassed views of the Sandakphu region along with the 180 degrees of snow capped mountain including the famous Everest, Makalu, Lhotse, Kumbhakarnad, Kanchenjunga and Chomolhari at a single stretch of snow all around the valley. Through this trekking, the trekkers can understand the rural and local lives of the people and why they leave their hearth and home to cross thousands of miles along the terraced fields of maize, rice, millet and barley, leaving the last traces of their civilization for their livelihood.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi - Bagdogra - Darjeeling",
+      "desc": "Take morning flight from Delhi to Bagdogra. Meet our representative and drive towards Darjeeling. On arrival transfer into hotel. Evening sightseeing and acclamitisation. Dinner and overnight stay at the hotel"
+    },
+    {
+      "day": "Day 2",
+      "title": "Darjeeling - Maneybhanjyang - Tonglu",
+      "desc": "Early morning drive to Tiger Hill to for a singular experience of the first rays of the sun bathing the Himalayas. On the return visit the Ghoom Monastery. Built in 1875 the monastery which follows the Gelugpa sect, houses one of the largest statue of the Maitreya Buddha - the future Buddha. After breakfast drive from Darjeeling to trek point. The trail overlooks the Bengali plain south, and we have tantalising glimpses of Kanchenjunga ahead, as we zigzag through rhododendrons"
+    },
+    {
+      "day": "Day 3",
+      "title": "Tonglu - Garibas",
+      "desc": "On second day of Sandakphu Trek, we undertake a pleasant walk through the forest which is home to the rare Red Panda and the Tragopan. After about 04 hrs the trekkers hut of Gairibas (2620m) is reached, where we spend the night"
+    },
+    {
+      "day": "Day 4",
+      "title": "Garibas - Sandakphu",
+      "desc": "Sandakphu Trek continues. After breakfast, start the trek to Sandakphu (3636m) which takes about 06 hrs. Sandakphu is Singalila Sandakphu Trek the place to view the mountains. On a clear day one can see the peaks of Lhotse (8501m), Everest (8848m) and Makalu (8475m) of the Nepal Himalayas and the huge Kanchenjunga massif (8586m) along with other peaks of the Sikkim Himalayas. Overnight at Sandakphu"
+    },
+    {
+      "day": "Day 5",
+      "title": "Sandakphu - Phalut",
+      "desc": "On Day 4 of Sandakphu Trek, The trail is along a ridge and can be considered as one of the most enjoyable and scenic walks in the Himalayas. The whole range of snowy peaks is always in view and the trail passes through high altitude vegetation and areas of dwarf rhododendrons and firs. The walk to Phalut (3600m) is about 07 hours. Overnight at Phalut"
+    },
+    {
+      "day": "Day 6",
+      "title": "Phalut - Rammam",
+      "desc": "Sandakphu Trek continues Early morning walk up to Phalut Top to view the sunrise over the Himalayas. After breakfast start trek to Rammam (2560m) which takes about 05 hrs. The trail passes through the villages of Gorkhey and Samanden and the forest provides ample opportunities for birding. Overnight at Rammam"
+    },
+    {
+      "day": "Day 7",
+      "title": "Rammam - Rimbik",
+      "desc": "On day 6 of Sandakphu Trek, we move from Rammam, the trail descends to the bridge at Sirikhola and passes through a number of small villages to reach Rimbik (2280m), the road head. Overnight at Rimbik"
+    },
+    {
+      "day": "Day 8",
+      "title": "Rimbik - Darjeeling",
+      "desc": "In the morning after breakfast drive to Darjeeling. On arrival check in to hotel. Dinner & overnight stay at hotel"
+    },
+    {
+      "day": "Day 9",
+      "title": "Darjeeling – Bagdogra/NJP",
+      "desc": "After breakfast drive to Bagdogra & from here catch a flight for onward destination"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/singalila-sandakphu-trek-banner.webp",
+    "images/singalila-sandakphu-trek1.webp",
+    "images/singalila-sandakphu-trek2.webp",
+    "images/singalila-sandakphu-trek3.webp",
+    "images/singalila-sandakphu-trek4.webp",
+    "images/singalila-sandakphu-trek5.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/singalila-sandakphu-trek-banner.webp",
+  "hasData": true
+}

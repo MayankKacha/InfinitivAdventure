@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Spiti Valley Road Trip with Chandratal Lake",
+  "slug": "spiti-valley-road-trip-chandratal",
+  "region": "Himachal",
+  "duration": "10 Nights / 11 Days",
+  "bestTime": "June - September",
+  "startingPrice": 20800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "An unforgettable journey through the raw and untouched landscapes of Spiti Valley in 11 Days.",
+  "route": "Chandigarh → Shimla → Chitkul → Nako → Tabo → Kaza → Chandratal → Manali → Chandigarh",
+  "highlights": [
+    "Chitkul village",
+    "Tabo & Dhankar monasteries",
+    "Komic, Hikkim & Langza",
+    "Camping near Chandratal Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1-2",
+      "title": "Arrival & Shimla",
+      "desc": "Train to Chandigarh, drive to Shimla."
+    },
+    {
+      "day": "Day 3",
+      "title": "Shimla to Chitkul",
+      "desc": "Drive to last village."
+    },
+    {
+      "day": "Day 4",
+      "title": "Chitkul to Tabo",
+      "desc": "Via Nako Lake."
+    },
+    {
+      "day": "Day 5",
+      "title": "Tabo to Kaza",
+      "desc": "Dhankar Monastery."
+    },
+    {
+      "day": "Day 6",
+      "title": "Kaza",
+      "desc": "Key, Hikkim, Komic."
+    },
+    {
+      "day": "Day 7",
+      "title": "Chandratal",
+      "desc": "Cross Kunzum Pass, camp at Chandratal."
+    },
+    {
+      "day": "Day 8-9",
+      "title": "Manali",
+      "desc": "Atal Tunnel, local sightseeing."
+    },
+    {
+      "day": "Day 10-11",
+      "title": "Return",
+      "desc": "Travel back to Chandigarh and home."
+    }
+  ],
+  "inclusions": [
+    "Transport",
+    "Hotels/Camps",
+    "Breakfast/Dinner",
+    "Permits"
+  ],
+  "exclusions": [
+    "Lunch",
+    "Optional activities",
+    "GST"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 20800,
+      "details": [
+        "Budget hotels/homestays"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 28800,
+      "details": [
+        "Upgraded homestays"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 38800,
+      "details": [
+        "Premium boutiqe accommodations"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "High altitude prep",
+    "Eco-friendly practices"
+  ]
+}

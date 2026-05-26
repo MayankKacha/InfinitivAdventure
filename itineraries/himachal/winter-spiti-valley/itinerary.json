@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Winter Spiti Valley Expedition",
+  "slug": "winter-spiti-valley",
+  "region": "Himachal",
+  "duration": "8 Nights / 9 Days",
+  "bestTime": "December - March",
+  "startingPrice": 23800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "An extraordinary winter journey into the remote and breathtaking landscapes of Spiti Valley. This adventure takes you through snow-covered mountains, ancient monasteries, and culturally rich villages untouched by time.",
+  "route": "Delhi → Shimla → Sangla → Chitkul → Nako → Tabo → Dhankar → Kaza → Langza → Key → Chicham → Kalpa → Shimla → Delhi",
+  "highlights": [
+    "Scenic drive through Narkanda and Kinnaur Valley",
+    "Visit to the peaceful Nako Village",
+    "Explore ancient monasteries like Tabo and Dhankar",
+    "Discover Key Monastery with its historic murals",
+    "Cross the iconic Chicham Bridge (one of Asia's highest)",
+    "Visit Langza Buddha Statue, Komic & Hikkim (world's highest post office)",
+    "Experience Giu Monastery with a preserved mummy"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi to Shimla",
+      "desc": "Meet the group leader in Delhi and board Volvo bus for overnight journey to Shimla."
+    },
+    {
+      "day": "Day 2",
+      "title": "Shimla to Sangla",
+      "desc": "Arrive in Shimla and proceed towards Sangla through scenic Kinnaur Valley. Overnight stay in Sangla."
+    },
+    {
+      "day": "Day 3",
+      "title": "Sangla – Chitkul – Tabo",
+      "desc": "Visit Chitkul, the last inhabited village near Indo-Tibet border. Continue towards Nako Village. Arrive in Tabo for overnight stay."
+    },
+    {
+      "day": "Day 4",
+      "title": "Tabo – Dhankar – Kaza",
+      "desc": "Explore Tabo Monastery. Visit Dhankar Monastery perched on a cliff. Proceed to Kaza."
+    },
+    {
+      "day": "Day 5",
+      "title": "Kaza – Langza – Komic – Hikkim",
+      "desc": "Visit Langza Buddha Statue, Komic village (highest motorable village), and Hikkim post office. Return to Kaza."
+    },
+    {
+      "day": "Day 6",
+      "title": "Kaza – Key Monastery – Chicham Bridge",
+      "desc": "Visit Key Monastery and drive to Chicham Bridge, one of Asia's highest bridges. Return to Kaza."
+    },
+    {
+      "day": "Day 7",
+      "title": "Kaza to Kalpa",
+      "desc": "Travel to Kalpa, stopping at Giu Monastery. Enjoy stunning views of Kinnaur-Kailash range."
+    },
+    {
+      "day": "Day 8",
+      "title": "Kalpa to Shimla & Departure",
+      "desc": "Drive back to Shimla. Board Volvo bus to Delhi."
+    },
+    {
+      "day": "Day 9",
+      "title": "Arrival in Delhi",
+      "desc": "Arrive in Delhi early morning. End of trip."
+    }
+  ],
+  "inclusions": [
+    "Accommodation on twin/triple sharing basis",
+    "Daily breakfast and dinner",
+    "Volvo bus Delhi-Shimla return",
+    "Private vehicle for all sightseeing",
+    "Experienced trip leader and local driver",
+    "All permits and toll charges"
+  ],
+  "exclusions": [
+    "Lunch and personal expenses",
+    "Entry tickets to monasteries",
+    "Any activity charges",
+    "Travel insurance",
+    "Anything not mentioned in inclusions"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 23800,
+      "details": [
+        "Standard guesthouses and homestays in Spiti",
+        "Basic but comfortable accommodation"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 32999,
+      "details": [
+        "Upgraded hotels and premium camps",
+        "Better amenities and warmer rooms"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 44999,
+      "details": [
+        "Best available properties in remote Spiti",
+        "Superior comfort with heated rooms"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Dec 2026",
+      "dates": [
+        "Dec 5",
+        "Dec 12",
+        "Dec 19",
+        "Dec 26"
+      ]
+    },
+    {
+      "month": "Jan 2027",
+      "dates": [
+        "Jan 2",
+        "Jan 9",
+        "Jan 16",
+        "Jan 23"
+      ]
+    },
+    {
+      "month": "Feb 2027",
+      "dates": [
+        "Feb 6",
+        "Feb 13",
+        "Feb 20",
+        "Feb 27"
+      ]
+    },
+    {
+      "month": "Mar 2027",
+      "dates": [
+        "Mar 6",
+        "Mar 13",
+        "Mar 20"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png",
+    "images/ladakh-3.jpg",
+    "images/kashmir-6.jpg",
+    "images/kashmir-3.jpg"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Heavy woolens, thermals, gloves, and snow boots are mandatory",
+    "High-altitude travel requires proper acclimatization",
+    "Limited network connectivity in remote areas",
+    "Follow safety instructions due to extreme weather"
+  ]
+}

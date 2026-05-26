@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Budget Himalayan Escape – Sikkim Explorer",
+  "slug": "budget-himalayan-escape",
+  "region": "Sikkim",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "April - June",
+  "startingPrice": 25800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Budget-friendly tour covering Gangtok, Zuluk Silk Route, and North Sikkim landscapes. Perfect mix of adventure, culture, and nature.",
+  "route": "Siliguri → Gangtok → Zuluk → Gnathang → Gangtok → Lachung → Yumthang → Gangtok",
+  "highlights": [
+    "Gangtok cultural landmarks",
+    "Zuluk Silk Route",
+    "Tsomgo Lake",
+    "Lachung Village in North Sikkim",
+    "Yumthang Valley & Zero Point"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Transfer to Gangtok homestay."
+    },
+    {
+      "day": "Day 2",
+      "title": "Zuluk (Silk Route)",
+      "desc": "Tsomgo Lake, Baba Mandir, Gnathang Valley."
+    },
+    {
+      "day": "Day 3",
+      "title": "Thambi View Point",
+      "desc": "Explore and return."
+    },
+    {
+      "day": "Day 4",
+      "title": "North Sikkim",
+      "desc": "Travel to Lachung via shared cab."
+    },
+    {
+      "day": "Day 5",
+      "title": "Yumthang & Zero Point",
+      "desc": "High-altitude adventure."
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Drive back to Siliguri."
+    }
+  ],
+  "inclusions": [
+    "Budget homestays",
+    "Shared or private transport",
+    "Basic meals",
+    "Permits"
+  ],
+  "exclusions": [
+    "Bike rental",
+    "Nathula pass",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 25800,
+      "details": [
+        "Basic budget homestays"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 29800,
+      "details": [
+        "2-3 star upgraded homestays"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 37800,
+      "details": [
+        "Premium boutique resorts"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-5.jpg"
+  ],
+  "coverPhoto": "images/sikkim-5.jpg",
+  "essentialTips": [
+    "Driving License preferred",
+    "Keep Diamox"
+  ]
+}

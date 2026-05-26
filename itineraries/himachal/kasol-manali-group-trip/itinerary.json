@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kasol Manali Group Trip",
+  "slug": "kasol-manali-group-trip",
+  "region": "Himachal",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "April - June, September - November",
+  "startingPrice": 11900,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Explore the peaceful vibes of Kasol and Parvati Valley, visit Manikaran Gurudwara, and experience adventure activities in Kullu and Manali. Designed for young travelers and groups.",
+  "route": "Chandigarh → Kasol → Manali → Solang Valley → Sissu → Chandigarh",
+  "highlights": [
+    "Scenic train journey to Chandigarh",
+    "Kasol and Parvati Valley exploration",
+    "Visit Manikaran Gurudwara",
+    "Adventure activities: river rafting & paragliding",
+    "Visit Atal Tunnel and Sissu",
+    "Explore Solang Valley and Manali"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Departure (Train Journey)",
+      "desc": "Board train for Chandigarh and enjoy overnight journey."
+    },
+    {
+      "day": "Day 2",
+      "title": "Arrival & Transfer to Kasol",
+      "desc": "Arrive at Chandigarh. Drive to Kasol. Check-in and relax."
+    },
+    {
+      "day": "Day 3",
+      "title": "Kasol Exploration & Manikaran",
+      "desc": "Visit Manikaran Gurudwara, Kasol Market, and riverside cafes."
+    },
+    {
+      "day": "Day 4",
+      "title": "Kasol to Manali (Adventure Day)",
+      "desc": "Travel to Manali. En route river rafting in Beas River. Arrival in Manali and check-in."
+    },
+    {
+      "day": "Day 5",
+      "title": "Sissu & Solang Valley",
+      "desc": "Drive through Atal Tunnel to Sissu. Explore Solang Valley."
+    },
+    {
+      "day": "Day 6",
+      "title": "Manali Local Sightseeing",
+      "desc": "Visit Hadimba Temple, Vashisht Temple, Mall Road, and Old Manali."
+    },
+    {
+      "day": "Day 7",
+      "title": "Return to Chandigarh",
+      "desc": "Morning departure to Chandigarh and board train back."
+    },
+    {
+      "day": "Day 8",
+      "title": "Arrival Returns",
+      "desc": "Trip concludes with memorable experiences."
+    }
+  ],
+  "inclusions": [
+    "Train tickets (base category)",
+    "Accommodation on sharing basis",
+    "Daily breakfast and dinner",
+    "Tempo Traveller/Private vehicle",
+    "Trip leader and 24/7 assistance",
+    "All tolls and parking"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Adventure activity charges",
+    "Lunch and meals during transit",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 11900,
+      "details": [
+        "Comfortable standard stays in Kasol & Manali"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 15900,
+      "details": [
+        "Upgraded hotels with better amenities"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 21900,
+      "details": [
+        "Premium resort stays in scenic locations"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Apr 2026",
+      "dates": [
+        "Apr 10",
+        "Apr 20"
+      ]
+    },
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 5",
+        "May 15"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Carry valid ID proof",
+    "Pack warm clothing",
+    "Adventure activities payable directly"
+  ]
+}

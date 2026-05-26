@@ -1,0 +1,182 @@
+{
+  "schema_version": "2.0",
+  "category": "tours",
+  "trips": [
+    {
+      "slug": "ladakh-bike-adventure",
+      "name": "Ladakh Bike Adventure",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/ladakh-bike-adventure/data.json"
+    },
+    {
+      "slug": "ladakh-with-turtuk-bike-adventure",
+      "name": "Ladakh with Turtuk Bike Adventure",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/ladakh-with-turtuk-bike-adventure/data.json"
+    },
+    {
+      "slug": "kashmir-to-ladakh-trip",
+      "name": "Kashmir to Ladakh trip",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/kashmir-to-ladakh-trip/data.json"
+    },
+    {
+      "slug": "leh-ladakh-tour-package",
+      "name": "Leh Ladakh tour package",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/leh-ladakh-tour-package/data.json"
+    },
+    {
+      "slug": "amazing-ladakh-tour-package",
+      "name": "Amazing Ladakh Tour Package",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/amazing-ladakh-tour-package/data.json"
+    },
+    {
+      "slug": "ladhak-kargil-trip",
+      "name": "Ladhak Kargil trip",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/ladhak-kargil-trip/data.json"
+    },
+    {
+      "slug": "kashmir-to-ladakh-explorer-with-turtuk-experience",
+      "name": "Kashmir to Ladakh Explorer with Turtuk Experience",
+      "region": "Ladakh",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/kashmir-to-ladakh-explorer-with-turtuk-experience/data.json"
+    },
+    {
+      "slug": "majestic-kashmir-tour-package",
+      "name": "Majestic Kashmir Tour Package",
+      "region": "Kashmir",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/majestic-kashmir-tour-package/data.json"
+    },
+    {
+      "slug": "kashmir-bliss-escape",
+      "name": "Kashmir Bliss Escape",
+      "region": "Kashmir",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/kashmir-bliss-escape/data.json"
+    },
+    {
+      "slug": "kashmir-grand-tour-package",
+      "name": "Kashmir Grand Tour Package",
+      "region": "Kashmir",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/kashmir-grand-tour-package/data.json"
+    },
+    {
+      "slug": "heavenly-kashmir-odyssey",
+      "name": "Heavenly Kashmir Odyssey",
+      "region": "Kashmir",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/heavenly-kashmir-odyssey/data.json"
+    },
+    {
+      "slug": "winter-spiti-valley-group-tours",
+      "name": "Winter Spiti Valley Group Tours",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/winter-spiti-valley-group-tours/data.json"
+    },
+    {
+      "slug": "summer-spiti-valley-group-trip",
+      "name": "Summer Spiti Valley Group Trip",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/summer-spiti-valley-group-trip/data.json"
+    },
+    {
+      "slug": "kasol-manali-group-trip",
+      "name": "Kasol Manali Group Trip",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/kasol-manali-group-trip/data.json"
+    },
+    {
+      "slug": "best-seller-shimla-manali-tour",
+      "name": "Best Seller Shimla - Manali Tour",
+      "region": "Himachal",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/best-seller-shimla-manali-tour/data.json"
+    },
+    {
+      "slug": "sikkim-darjeeling-trip",
+      "name": "Sikkim Darjeeling trip",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/sikkim-darjeeling-trip/data.json"
+    },
+    {
+      "slug": "gangtok-darjeeling-east-south-and-west-sikkim-trip",
+      "name": "Gangtok, Darjeeling, East, South and West Sikkim trip",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/gangtok-darjeeling-east-south-and-west-sikkim-trip/data.json"
+    },
+    {
+      "slug": "gangtok-darjeeling-with-east-sikkim-trip",
+      "name": "Gangtok, Darjeeling, with East Sikkim trip",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/gangtok-darjeeling-with-east-sikkim-trip/data.json"
+    },
+    {
+      "slug": "gangtok-darjeeling-east-south-and-west-sikkim-explore",
+      "name": "Gangtok, Darjeeling, East, South and West Sikkim explore",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/gangtok-darjeeling-east-south-and-west-sikkim-explore/data.json"
+    },
+    {
+      "slug": "gangtok-darjeeling-east-and-north-sikkim-trip",
+      "name": "Gangtok, Darjeeling, East and North Sikkim trip",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/gangtok-darjeeling-east-and-north-sikkim-trip/data.json"
+    },
+    {
+      "slug": "gangtok-east-north-and-south-sikkim-trip",
+      "name": "Gangtok, East, North and South Sikkim trip",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/gangtok-east-north-and-south-sikkim-trip/data.json"
+    },
+    {
+      "slug": "sikkim-explore",
+      "name": "SIKKIM EXPLORE",
+      "region": "Sikkim",
+      "upcoming": false,
+      "hasData": true,
+      "path": "tours/sikkim-explore/data.json"
+    }
+  ]
+}

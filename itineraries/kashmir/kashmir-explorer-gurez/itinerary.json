@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Explorer with Gurez Valley",
+  "slug": "kashmir-explorer-gurez",
+  "region": "Kashmir",
+  "duration": "10 Nights / 11 Days",
+  "bestTime": "May - September",
+  "startingPrice": 32500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Experience both popular attractions and offbeat destinations like Gurez and Tulail Valley via Razdan Pass.",
+  "route": "Srinagar → Gulmarg → Sonmarg → Pahalgam → Gurez → Tulail → Srinagar",
+  "highlights": [
+    "Gurez Valley offbeat adventure",
+    "Dawar village",
+    "Tulail Valley excursion",
+    "Habba Khatoon Peak",
+    "Gulmarg, Sonmarg, Pahalgam"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Srinagar",
+      "desc": "Arrival."
+    },
+    {
+      "day": "Day 2",
+      "title": "Gulmarg",
+      "desc": "Day trip."
+    },
+    {
+      "day": "Day 3",
+      "title": "Sonmarg",
+      "desc": "Day trip."
+    },
+    {
+      "day": "Day 4",
+      "title": "Pahalgam",
+      "desc": "Drive and stay."
+    },
+    {
+      "day": "Day 5",
+      "title": "Srinagar",
+      "desc": "Return."
+    },
+    {
+      "day": "Day 6",
+      "title": "Gurez",
+      "desc": "Drive via Razdan Pass."
+    },
+    {
+      "day": "Day 7",
+      "title": "Gurez Sightseeing",
+      "desc": "Dawar village, Habba Khatoon."
+    },
+    {
+      "day": "Day 8",
+      "title": "Tulail",
+      "desc": "Remote valley excursion."
+    },
+    {
+      "day": "Day 9",
+      "title": "Srinagar",
+      "desc": "Return journey."
+    },
+    {
+      "day": "Day 10",
+      "title": "Local Srinagar",
+      "desc": "Sightseeing."
+    },
+    {
+      "day": "Day 11",
+      "title": "Departure",
+      "desc": "Fly out."
+    }
+  ],
+  "inclusions": [
+    "Hotels/Local stays",
+    "Meals",
+    "Transport"
+  ],
+  "exclusions": [
+    "Union cabs",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 32500,
+      "details": [
+        "Basic local accommodations in Gurez"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 41500,
+      "details": [
+        "Best available upgraded stays"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 58500,
+      "details": [
+        "Top available comforts in remote areas"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-5.jpg"
+  ],
+  "coverPhoto": "images/kashmir-5.jpg",
+  "essentialTips": [
+    "Gurez has limited connectivity",
+    "Challenging roads"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": { "schema_version": "1.0", "last_updated": "2026-05-02" },
+  "name": "Shimla–Manali Explorer",
+  "slug": "shimla-manali-explorer",
+  "region": "Himachal",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "March - June, October - December",
+  "startingPrice": 14800,
+  "travellers": [2, 4, 6, "Group"],
+  "description": "A carefully curated journey through the scenic landscapes of Himachal Pradesh. Covering the charming hill stations of Shimla and Manali, this tour blends natural beauty, cultural heritage, and light adventure.",
+  "route": "Delhi → Shimla → Kufri → Manali → Kullu Valley → Solang Valley → Delhi",
+  "highlights": [
+    "Scenic drive through the picturesque Kullu Valley",
+    "Visit to heritage sites and temples in Shimla",
+    "Excursion to Kufri and nearby scenic viewpoints",
+    "Exploration of Manali's cultural and spiritual landmarks",
+    "Visit to Solang Valley and nearby high-altitude regions",
+    "Opportunity to experience snow activities (seasonal)"
+  ],
+  "itinerary": [
+    { "day": "Day 1", "title": "Delhi to Shimla", "desc": "Picked up from Delhi and driven to Shimla. Visit Wildflower Hall, Indira Holiday Home, and the Advance Study & Museum. Overnight stay in Shimla." },
+    { "day": "Day 2", "title": "Shimla & Kufri Sightseeing", "desc": "Explore Shimla attractions including Kalibari Temple, Jakhu Temple, Sankat Mochan Temple, and Christ Church. Visit Kufri for scenic views. Optional horse riding. Overnight in Shimla." },
+    { "day": "Day 3", "title": "Shimla to Manali", "desc": "Drive to Manali through the beautiful Kullu Valley. Enjoy views of the Beas River and visit Dashehra Maidan. Overnight stay in Manali." },
+    { "day": "Day 4", "title": "Manali Local Sightseeing", "desc": "Visit Hadimba Devi Temple, Manu Temple, Vashisht Temple, and Tibetan Monastery. Evening at leisure. Overnight in Manali." },
+    { "day": "Day 5", "title": "Excursion to Solang Valley / Rohtang Region", "desc": "Full-day excursion to Solang Valley, Kothi, Gulaba, and Marhi. Possibility of Rohtang Pass visit (extra cost). Overnight in Manali." },
+    { "day": "Day 6", "title": "Departure to Delhi", "desc": "After breakfast, check out and drive back to Delhi. End of trip." }
+  ],
+  "inclusions": [
+    "Accommodation in well-appointed rooms",
+    
+    "Daily breakfast and dinner at hotels",
+    "Pick-up and drop from Delhi (airport/railway station)",
+    "Private vehicle for all transfers and sightseeing",
+    "Shimla and Manali local tours as per itinerary"
+  ],
+  "exclusions": [
+    "Airfare or train tickets to/from Delhi",
+    "Rohtang Pass sightseeing charges",
+    "Personal expenses (shopping, tips, etc.)",
+    "Any service not specifically mentioned in inclusions"
+  ],
+  "stayCategories": {
+    "deluxe": { "label": "Deluxe", "price": 14800, "details": ["Standard 3-star hotels in Shimla & Manali", "Comfortable stay with essential facilities"] },
+    "premium": { "label": "Premium", "price": 22999, "details": ["4-star hotels with upgraded amenities", "Enhanced comfort and better services"] },
+    "luxury": { "label": "Luxury", "price": 35999, "details": ["Premium 4/5-star properties", "Superior hospitality with scenic views"] }
+  },
+  "departureDates": [
+    { "month": "Apr 2026", "dates": ["Apr 5", "Apr 12", "Apr 19", "Apr 26"] },
+    { "month": "May 2026", "dates": ["May 3", "May 10", "May 17", "May 24", "May 31"] },
+    { "month": "Jun 2026", "dates": ["Jun 7", "Jun 14", "Jun 21", "Jun 28"] },
+    { "month": "Oct 2026", "dates": ["Oct 4", "Oct 11", "Oct 18", "Oct 25"] },
+    { "month": "Nov 2026", "dates": ["Nov 1", "Nov 8", "Nov 15"] }
+  ],
+  "photos": ["images/cover.jpg"],
+  "coverPhoto": "images/cover.jpg",
+  "essentialTips": [
+    "Carry valid government ID proof",
+    "Weather may vary; pack warm clothing",
+    "Comfortable walking shoes are recommended",
+    "Optional activities like horse riding and snow sports are extra"
+  ]
+}

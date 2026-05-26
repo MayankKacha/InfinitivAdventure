@@ -1,0 +1,118 @@
+{
+  "category": "tours",
+  "region": "Ladakh",
+  "slug": "ladhak-kargil-trip",
+  "name": "Ladhak Kargil trip",
+  "upcoming": false,
+  "duration": "8 Days / 7 Nights",
+  "route": "Early morning departure for Kargil → Early morning departure for Leh → Leh → Chang La Pass",
+  "startingPrice": null,
+  "description": "Embark on an extraordinary journey from the lush valleys of Kashmir to the rugged high-altitude landscapes of Ladakh. This 8-day itinerary offers a seamless blend of scenic beauty, cultural exploration, and adventurous road trips. From the serene Dal Lake in Srinagar to the dramatic terrains of Kargil, Leh, Nubra Valley, and Pangong Lake, this tour is thoughtfully designed to provide a complete Himalayan experience.",
+  "highlights": [
+    "Explore Mughal Gardens and enjoy a Shikara ride on Dal Lake",
+    "Drive through the scenic Sonmarg and Zoji La Pass",
+    "Visit Drass, one of the coldest inhabited places in the world",
+    "Discover ancient monasteries like Lamayuru, Hemis, and Thiksey",
+    "Witness the Indus–Zanskar river confluence",
+    "Experience Magnetic Hill and Gurudwara Patthar Sahib",
+    "Cross Khardung La Pass to reach Nubra Valley",
+    "Explore Hunder Sand Dunes and enjoy camel safari (optional)",
+    "Visit the stunning Pangong Lake",
+    "Travel via Chang La Pass, one of the highest motorable roads",
+    "Route Srinagar → Kargil → Leh → Nubra Valley → Pangong Lake → Leh"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Srinagar Airport and transfer to hotel/Houseboat",
+      "desc": "Upon arrival at the airport, pick up & Drive to the reserved hotel. Later visit local sightseeing’s like Nishat & Shalimar Garden, in the evening enjoy the beautiful sunset at Dal Lake Shikara Ride at Dal Lake. Overnight stay in Hotel / Houseboat"
+    },
+    {
+      "day": "Day 2",
+      "title": "Early morning departure for Kargil",
+      "desc": "After early breakfast leave for Kargil, via Sonamarg & Zojila pass (3,528 m). Since you are driving across Zojila Pass and its route’s uncertainty, you need to reach Sonamarg early in the morning. Reach Drass Village (2nd Coldest Inhabitant place in the World) by lunch time on the way visit War memorial hall & Museum, reach Kargil by evening loc Kargil Hunderman Boader View Point. Distance 215-220 km approx Check in at hotel in Kargil"
+    },
+    {
+      "day": "Day 3",
+      "title": "Early morning departure for Leh",
+      "desc": "After breakfast departure to Leh on the way visit Mulbekh chamba (Buddha Sculpture on Rock Mountain), Lamayuru (oldest Monastery of Ladakh), Moonland view, Sangam of Sindhu and Zanskar rivers (from view point), Magnetic Hill, Patthar sahib Gurudwara. In evening Shanti Stupa, Leh Palace, Market. Distance km approx Overnight at Leh"
+    },
+    {
+      "day": "Day 4",
+      "title": "Leh Local Sightseeing",
+      "desc": "After early breakfast, you will set off for Thiksay monastery. Its looks like Potala palace of Tibet, Enroute visit Druk Pama Karpo (Rancho School) Shey Palace. Hemis Monastery (the largest & richest monasteries in Ladakh). In the evening you can visit Shanti Stupa, Leh Palace (build in 17th century by King Singay Namgyal) after stroll around the market place for some last day souvenir shopping. Distance 40-50 km approx Overnight in Hotel at Leh"
+    },
+    {
+      "day": "Day 5",
+      "title": "Drive across Khardung La Pass And Reach Nubra Valley (Valley of Flowers)",
+      "desc": "After breakfast drive towards to Nubra Valley, driving across Khardong-la (Second Highest Motor able Road in the World alt: 5602Mts/18390Ft). After descending from the pass, Nubra Valley is popularly known as Ldorma or the valley of flowers. It is situated to the north of Ladakh between the Karakoram and Ladakh ranges of the Himalayas. Arrive at Hunder & check in at Hotel/Camps. Later visit Diskit Village & the Sand Dunes where you can enjoy a short camel safari using the double-humped Bactrian camel found here (optional on direct payment). Distance 120-130 km approx Overnight in Hotel/Camp in Nubra Hunder"
+    },
+    {
+      "day": "Day 6",
+      "title": "Scenic drive along Shyok River And Reach Pangong Lake and explore surroundings",
+      "desc": "(Note: Route subject to weather conditions; alternate plan may apply.) After breakfast, leave for Pangong Lake via Shayok. Along the route, enjoy the scenic views of Shayok River & Karakoram Range. This route has few water crossings mainly in the month of June & July, to avoid these you need to leave early from Nubra. Reach Pangong Lake by afternoon. The lake is world highest saltwater lake situated at an elevation of 4,225 m. extending to almost 130 km long, 1/3 of its lies in India and 2/3 in China).. NOTE: THIS ROUTE DEPENDS ON WEATHER CONDITIONS. IF ROUTE BLOCK OCCURS REACH BACK TO Leh & STAY OVERNIGH. NEXT DAY Pangong LAKE VISIT WILL BE ONE DAY TRIP. Distance 150-160 km approx. Check in at Camp/hotel in Pangong"
+    },
+    {
+      "day": "Day 7",
+      "title": "Return journey via Chang La Pass",
+      "desc": "After breakfast, leave for Leh across another one of the highest motorable roads in the world, Chang La Pass at an elevation of 5360 M –. Enroute visiting Shey Palace, Thiksey Monastery.. Rest & later have a leisure evening in the Leh market. Distance 140-150 km approx. Reach Leh by afternoon/evening, check in at Hotel Leh"
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "After breakfast. Our teams thank you for your patronage and ensure a punctual drop to Airport to catch the flight for your onward Destination. TOUR ENDS BUT SWEET MEMORIES ALWAYS REMAINS"
+    }
+  ],
+  "inclusions": [
+    "3 Nights stay in Leh with breakfast & dinner",
+    "1 Night stay in Nubra Valley with meals",
+    "1 Night stay in Pangong with meals",
+    "1 Night stay in Kargil with meals",
+    "1 Night stay in Srinagar with meals",
+    "Airport pick-up (Srinagar) and drop (Leh)",
+    "Private vehicle (Innova/Xylo/Scorpio/Ertiga or Tempo Traveller)",
+    "Experienced driver",
+    "Oxygen cylinder (for Nubra & Pangong)",
+    "Parking, toll taxes, and fuel charges",
+    "First aid kit",
+    "24x7 assistance"
+  ],
+  "exclusions": [
+    " Airfare and GST",
+    " Personal expenses (shopping, tips, laundry, etc.)",
+    " Entry fees and camera charges",
+    " Adventure activities (rafting, camel safari, ATV, etc.)",
+    " Travel insurance and medical expenses",
+    " Vehicle services during leisure time",
+    " Extra costs due to delays, weather, or roadblocks",
+    " AC vehicle (available at additional cost)"
+  ],
+  "essentialTips": [
+    "Carry valid government ID proof",
+    "Use postpaid SIM cards for better connectivity in Ladakh",
+    "Pack warm clothes including thermals and jackets",
+    "Carry sunscreen, moisturizer, and sunglasses",
+    "Stay hydrated and allow time for acclimatization",
+    "Start early for long travel routes"
+  ],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

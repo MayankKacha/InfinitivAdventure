@@ -1,0 +1,95 @@
+{
+  "category": "tours",
+  "region": "Sikkim",
+  "slug": "sikkim-darjeeling-trip",
+  "name": "Sikkim Darjeeling trip",
+  "upcoming": false,
+  "duration": "8 Days / 7 Nights",
+  "route": "Gang → Lachung → Yumthang → Lachung → Gang → Darjeeling → Gang → Darjeeling",
+  "startingPrice": null,
+  "description": "Experience the wonders of Sikkim's natural beauty and culture in this once-in-a-lifetime tour of some of the most beautiful places and things in Sikkim. This package, unlike the Lachung Tour, will take you through a different scenic pathway passing through the mesmerizing Changu Lake, which is constructed in the middle of snow-capped mountains and is popular for its cobalt-clear surface. Explore beautiful villages and waterfalls like the mighty Bhim Nala, known for its photography and hours of relaxation. The trip also offers and allows you to experience the diverse flora and fauna of the area, as during this spring full of red and white rhododendrons and primulas blooming, the hills are all floured in different colors.",
+  "highlights": [
+    "Changu Lake",
+    "villages and water falls",
+    "Flora",
+    "Fauna",
+    "Rhododendrons",
+    "Primulas",
+    "Bhim Nala",
+    "Dorje Ling",
+    "Mt",
+    "Everest",
+    "Zoological Park(closed on Thursday)",
+    "Tibetan Refugee Centre(closed on Sunday)",
+    "Tenzing Rock",
+    "Gombu Rock and Happy Valley Tea Estate(from outside)"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival - Gangtok",
+      "desc": "(125 kms 4 hours approx) Assistance at the airport/railway station on arrival and drive to Gangtok. Gangtok: At an altitude of 1750m, Gangtok became the state capital in the mid 19 th century and has undergone rapid development since then. The downtown area is dominated by huge government buildings decorated with traditional Buddhist symbols. Gangtok is also a resting ground for people traveling to North Sikkim. Surrounded by Monasteries and Orchids, Gangtok is truly a travellers delight. Overnight at hotel"
+    },
+    {
+      "day": "Day 2",
+      "title": "Gangtok",
+      "desc": "Breakfast at the hotel and full day excursion to Changu Lake which is 35 Kms from Gangtok at an altitude of 12,400 feet. The lake derives its waters from melting snows off the surrounding mountains Legends say that lamas could forecast the future by studying the color of the lake’s waters. Also visit Baba Mandir Overnight at hotel"
+    },
+    {
+      "day": "Day 3",
+      "title": "Gangtok – Lachung",
+      "desc": "(123 kms 6 hours approx) Breakfast at the hotel in Gangtok and drive to Lachung enroute visiting villages and water falls, Overnight at hotel"
+    },
+    {
+      "day": "Day 4",
+      "title": "Lachung - Yumthang - Lachung",
+      "desc": "Breakfast at the hotel and excursion to Yumthang Valley & back. - The valley of flowers. Flora, Fauna, Rhododendrons and Primulas and found in abundance. Yumthang is the summer grazing grounds of the Yaks. On the way back visit the Sulphur Hot Spring, considered to have medicinal properties. Overnight at Hotel"
+    },
+    {
+      "day": "Day 5",
+      "title": "Lachung – Gangtok",
+      "desc": "Breakfast at the hotel and drive back to Gangtok enroute visit Twin Falls, Bhim Nala etc., Overnight at hotel in Gangtok"
+    },
+    {
+      "day": "Day 6",
+      "title": "Darjeeling – Gangtok",
+      "desc": "(98 kms 4 hours approx) Breakfast at the hotel and drive to Gangtok Gangtok: At an altitude of 1750m, Gangtok became the state capital in the mid 19 th century and has undergone rapid development since then. The downtown area is dominated by huge government buildings decorated with traditional Buddhist symbols. Gangtok is also a resting ground for people traveling to North Sikkim. Surrounded by Monasteries and Orchids, Gangtok is truly a travellers delight. Overnight at hotel"
+    },
+    {
+      "day": "Day 7",
+      "title": "Darjeeling",
+      "desc": "Early morning visit Tiger Hill to see a beautiful sunrise and Himalayan Range like Kanchenjunga, Mount Everest etc. One can see the horizon changing colors just before sunrise and then the entire Himalayan range turn golden. It is truly a majestic sight and Ghoom Monastery which is oldest Monastery in the area which was built in 1875 and one can see the image of Mythey Buddha 15ft. height on the way back from Tiger Hill. Breakfast at the hotel and proceed for city tour visiting Himalayan Mountaineering Institute(closed on Thursday) which was started by Tenzing Norgay after he climbed Mt. Everest, Zoological Park(closed on Thursday), Tibetan Refugee Centre(closed on Sunday), Tenzing Rock, Gombu Rock and Happy Valley Tea Estate(from outside). Overnight at hotel"
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "Breakfast at the hotel and drive to Bagdogra/NJP in time for flight/train to onward destination"
+    }
+  ],
+  "inclusions": [
+    "Accommodation as per plan",
+    "All transfers and sightseeings as per itinerary in Non A/C vehicle",
+    "All Applicable Hotel Taxes"
+  ],
+  "exclusions": [
+    "Porterage and Personal Expenses"
+  ],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg"
+  ],
+  "videos": [
+    "images/IMG-1-.mp4"
+  ],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

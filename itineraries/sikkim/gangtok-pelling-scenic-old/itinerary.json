@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Gangtok & Pelling Scenic Tour",
+  "slug": "gangtok-pelling-scenic-old",
+  "region": "Sikkim",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "March - June, September - November",
+  "startingPrice": 25800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Experience the untouched charm of Sikkim with this thoughtfully curated journey covering Gangtok and Pelling. A perfect blend of scenic landscapes, spiritual landmarks, and cultural immersion.",
+  "route": "Siliguri/Bagdogra → Gangtok → Tsomgo Lake → Pelling (via Namchi) → Return",
+  "highlights": [
+    "Visit the stunning Tsomgo Lake at 12,400 ft",
+    "Explore the sacred Baba Harbhajan Singh Mandir",
+    "Enjoy panoramic views from Tashi Viewpoint",
+    "Experience the beauty of Pelling Skywalk & Pemayangtse Monastery",
+    "Visit serene lakes, waterfalls, and traditional villages"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Transfer to Gangtok",
+      "desc": "Arrival at NJP/Bagdogra. Drive to Gangtok (4–5 hours). Check-in and relax. Evening explore MG Marg. Dinner included."
+    },
+    {
+      "day": "Day 2",
+      "title": "Excursion to Tsomgo Lake & Baba Mandir",
+      "desc": "Drive to Tsomgo Lake, a breathtaking glacial lake. Continue to Baba Mandir. Return to Gangtok."
+    },
+    {
+      "day": "Day 3",
+      "title": "Gangtok Local Sightseeing",
+      "desc": "Visit Tashi Viewpoint, Ganesh Tok, Hanuman Tok, Institute of Tibetology, Do-drul Chorten, Gonjang Monastery, Ban Jhakri Waterfalls."
+    },
+    {
+      "day": "Day 4",
+      "title": "Transfer to Pelling via Namchi",
+      "desc": "Drive to Pelling via Namchi. Visit Siddheshwar Dham and Sai Temple. Check-in at Pelling hotel."
+    },
+    {
+      "day": "Day 5",
+      "title": "Pelling Full-Day Sightseeing",
+      "desc": "Visit Darap Village, Rimbi Waterfalls, Khecheopalri Lake, Pemayangtse Monastery, Rabdentse Ruins, and Skywalk."
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "After breakfast, proceed to NJP/Bagdogra for your onward journey."
+    }
+  ],
+  "inclusions": [
+    "Accommodation (3 nights Gangtok, 2 nights Pelling)",
+    "Daily breakfast and dinner",
+    "Private vehicle for all transfers and sightseeing",
+    "Airport/Railway station pickup & drop",
+    "Driver allowance, toll tax, parking fees, permits",
+    "24x7 customer support"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry tickets and activity charges",
+    "Nathula Pass permit (optional)",
+    "Personal expenses (shopping, tips, etc.)"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 25800,
+      "details": [
+        "Gangtok: Standard 3★ hotels near MG Marg",
+        "Pelling: Comfortable hillside hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 37800,
+      "details": [
+        "Gangtok: 4★ hotels with city or valley views",
+        "Pelling: Premium properties with scenic mountain views"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 42800,
+      "details": [
+        "Gangtok: 5★ or boutique luxury stays",
+        "Pelling: High-end resorts with panoramic Himalayan views"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Apr 2026",
+      "dates": [
+        "Apr 5",
+        "Apr 12",
+        "Apr 19",
+        "Apr 26"
+      ]
+    },
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 3",
+        "May 10",
+        "May 17",
+        "May 24"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 7",
+        "Jun 14",
+        "Jun 21"
+      ]
+    },
+    {
+      "month": "Oct 2026",
+      "dates": [
+        "Oct 4",
+        "Oct 11",
+        "Oct 18",
+        "Oct 25"
+      ]
+    },
+    {
+      "month": "Nov 2026",
+      "dates": [
+        "Nov 1",
+        "Nov 8",
+        "Nov 15"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-6.jpg",
+    "images/sikkim-4.jpg",
+    "images/sikkim-2.jpg",
+    "images/sikkim-5.jpg"
+  ],
+  "coverPhoto": "images/sikkim-6.jpg",
+  "essentialTips": [
+    "Carry valid ID proof",
+    "Passport-size photos needed for permits",
+    "Warm clothing recommended due to varying temperatures",
+    "Follow local guidelines and weather advisories"
+  ]
+}

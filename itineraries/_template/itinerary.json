@@ -1,0 +1,102 @@
+{
+  "_instructions": "Copy this file to your itinerary folder and fill in every field. Remove all keys starting with underscore before using in production.",
+
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "YYYY-MM-DD"
+  },
+
+  "name": "Tour Name Here",
+  "slug": "url-safe-slug-here",
+  "region": "Himachal",
+  "duration": "X Nights / Y Days",
+  "bestTime": "Month - Month",
+  "startingPrice": 0,
+  "travellers": [2, 4, 6, "Group"],
+
+  "description": "2–4 sentence description of this tour.",
+
+  "route": "City A → City B → City C → City A",
+
+  "highlights": [
+    "Key highlight 1",
+    "Key highlight 2",
+    "Key highlight 3"
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at [City]",
+      "desc": "Detailed description of the day's activities."
+    },
+    {
+      "day": "Day 2",
+      "title": "Sightseeing",
+      "desc": "Full description of what happens on day 2."
+    }
+  ],
+
+  "inclusions": [
+    "Accommodation",
+    "Daily breakfast and dinner",
+    "Private vehicle for all transfers",
+    "Experienced driver"
+  ],
+
+  "exclusions": [
+    "Airfare or train tickets",
+    "Personal expenses",
+    "Adventure activity charges"
+  ],
+
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 0,
+      "details": [
+        "Standard 3-star hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "_note": "This tier always shows the 'Most Popular' badge on the UI.",
+      "price": 0,
+      "details": [
+        "4-star hotels with upgraded amenities"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 0,
+      "details": [
+        "Premium 4/5-star properties"
+      ]
+    }
+  },
+
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": ["May 3", "May 10", "May 17", "May 24"]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": ["Jun 7", "Jun 14", "Jun 21", "Jun 28"]
+    }
+  ],
+
+  "photos": [
+    "images/cover.jpg",
+    "images/photo-2.jpg",
+    "images/photo-3.jpg"
+  ],
+
+  "coverPhoto": "images/cover.jpg",
+
+  "essentialTips": [
+    "Carry valid government ID proof",
+    "Pack warm clothing",
+    "Wear comfortable walking shoes"
+  ]
+}

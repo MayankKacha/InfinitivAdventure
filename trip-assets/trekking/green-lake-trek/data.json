@@ -1,0 +1,112 @@
+{
+  "category": "trekking",
+  "region": "Sikkim",
+  "slug": "green-lake-trek",
+  "name": "Green Lake Trek",
+  "upcoming": false,
+  "duration": "16 Days / 15 Nights",
+  "route": "Lachen → Zema → Yabuk → Rest Camp → Green Lake → Rest Camp → Yabuk → Zema → Lachen → Gangtok",
+  "startingPrice": null,
+  "description": "The Green Lake located in the North of Sikkim at the base camp of Mount Kanchenjunga on the Zemu Glacier is known to be one of the most captivating of all treks in the area. The Green Lake Trek is basically a splendid walk to find the variety of Rhododendron, blue poppies and primulas in an awesome bloom. The trek brings the out of the world experience of the mountainous view along the peaks with Kanchenjunga at the head of the valley. The Green Lake Base Camp is elongated at the height of more than 5000 meters and so the trek is graded from moderate to strenuous and sometime demanding too. Zemu Glacier is the spot where the maximum hiking can take place and for the highest base camp altitude the Green Lake is the perfect spot. The trek will take the zealous trekkers through villages, hills and river valleys along the foothills of the great Kanchenjunga Ranges along with some pristine areas. The Green Lake Trek is the perfect idea for the bird-watchers and the flower lovers.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Bagdogra - Gangtok",
+      "desc": "(124 kms/4-5 hrs) Upon arrival at Bagdogra airport met our representative and drive towards Gangtok. On arrival transfer into hotel. Evening free to do your own activity. Dinner & overnight stay at hotel"
+    },
+    {
+      "day": "Day 2",
+      "title": "Gangtok - Lachen",
+      "desc": "(2730 m/8950 ft · 135 kms/6-7 hrs drive) The journey takes about 5-6 hour's drive with all the stoppages, including lunch break on the way. The drive passes through very fascinating Sikkimese villages. Plentiful waterfalls should not be missed. Night will be in a hotel in Lachen. Lachen is pretty a gigantic village 280 families from the Bhutia stock. The people here are semi nomadic, moving with their cattle to the high pastures in the north in the summer. From tonight you will get the taste of food from your trekking cook"
+    },
+    {
+      "day": "Day 3",
+      "title": "Lachen - Tallem",
+      "desc": "(3240 m/ 10620 ft · 12 kms/ 5-6 hrs) We start day 1 with walk towards Zema. At Zema there is confluence of Zemu Chu and Thangu Chu. After crossing a bridge the trail turns towards the west to follow the left bank of the Zemu Chu to Green Lake. The trail for the first 6 kms is wide and broad .Some times the route is hampered with landslides. After a further 6 kms we reach Tallem, at the confluence of Lhonak Chu with Zemu Chu. Overnight stay in tents"
+    },
+    {
+      "day": "Day 4",
+      "title": "Tallem - Jakthang",
+      "desc": "(3430 m/11250 ft · 12 kms/ 5-6 hrs) On day 2 the trail enters some of the most magnificent forest areas for which Sikkim is famous. Cross a bridge to climb steadly through forest to Shobuk. The trail then descends steeply for 12 kms to Jakthang, a small clearing in the forest. Overnight stay in tents"
+    },
+    {
+      "day": "Day 5",
+      "title": "Jakthang",
+      "desc": "Day is for rest and acclamatisation"
+    },
+    {
+      "day": "Day 6",
+      "title": "Jakthang - Yabuk",
+      "desc": "(4040 m/13250 ft · 8 kms/ 4-5 hrs) The trail continues through forest on this day. After a short climb it crosses a bridge over Thombak Chu. There are several ascents and descends on the route, and is often wiped out of floods. Later we descend towards the bank of the Zemu Chu and follow the trail beside the river. After a tiring 8 kms day walk we reach the camping ground of Yabuk. Yabuk is a small but beautiful camping area very cold and windy near the glacier. Overnight in tents"
+    },
+    {
+      "day": "Day 7",
+      "title": "Yabuk - Rest camp",
+      "desc": "(4725 m/15500 ft · 8 kms/ 3-4 hrs) From Yabuk the trail enters the moraine field of the Zemu Glacier, crossing boulders and pebbles. It is a tiring route with increasing altitude and is like a walk in high altitude desert; though on later part one is rewarded with magnificent views of mountain peaks like Siniolchu and Simvu. At times one can also view Kangchenjunga rising in the distance. After a 6 kms walk we reach Rest camp at the mouth of Lhonak valley. Overnight stay in tents"
+    },
+    {
+      "day": "Day 8",
+      "title": "Rest Camp - Green Lake",
+      "desc": "(4935 m/16190 ft · 6 kms/ 3-4 hrs) The trail from Rest camp towards the Green Lake is along similar terrain along a moraine ridge. The views of the surrounding peaks are very clear. Finally we reach Green lake camp which is a vast open ground. Overnight Stay in Tents"
+    },
+    {
+      "day": "Day 9",
+      "title": "Green Lake",
+      "desc": "(4935 m/16190 ft) The day is for rest /acclamitasation. Overnight stay in tents"
+    },
+    {
+      "day": "Day 10",
+      "title": "Green Lake - Rest Camp",
+      "desc": "Today we start retracing our steps towards Rest camp. Overnight stay in tents"
+    },
+    {
+      "day": "Day 11",
+      "title": "Rest camp - Yabuk",
+      "desc": "This day we trek back towards Yabuk with moderate pace and enjoy the beauty of the trek. Overnight stay in tents"
+    },
+    {
+      "day": "Day 12",
+      "title": "Yabuk - Jakthang",
+      "desc": "We continue to descend further towards Jakthang. Overnight Stay in tents"
+    },
+    {
+      "day": "Day 13",
+      "title": "Jakthang - Tallem",
+      "desc": "Today we start little early and continue towards Tallem. The trail is easy walk with ups and down. Overnight Stay in tents"
+    },
+    {
+      "day": "Day 14",
+      "title": "Tallem - Lachen",
+      "desc": "On the final day we will trek towards Lachen. The route is generally downhill and is an easy walk. Overnight stay in tents/hotel"
+    },
+    {
+      "day": "Day 15",
+      "title": "Lachen - Gangtok",
+      "desc": "After breakfast drive for Gangtok. Overnight stay in hotel"
+    },
+    {
+      "day": "Day 16",
+      "title": "Gangtok - Bagdogra",
+      "desc": "Morning after breakfast transfer to Bagdogra airport, from here catch a onward flight"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/sikkim-green-lake-trek-01.webp",
+    "images/sikkim-green-lake-trek-02.webp",
+    "images/sikkim-green-lake-trek-03.webp",
+    "images/sikkim-green-lake-trek-04.webp",
+    "images/sikkim-green-lake-trek-05.webp",
+    "images/sikkim-green-lake-trek-06.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/sikkim-green-lake-trek-01.webp",
+  "hasData": true
+}

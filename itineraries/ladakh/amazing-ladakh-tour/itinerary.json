@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Amazing Ladakh Tour Package",
+  "slug": "amazing-ladakh-tour",
+  "region": "Ladakh",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "May - September",
+  "startingPrice": 20600,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Discover breathtaking landscapes with proper balance of sightseeing and acclimatization covering Leh, Nubra, and Pangong.",
+  "route": "Leh → Nubra Valley → Pangong Lake → Leh",
+  "highlights": [
+    "Panoramic views from Shanti Stupa",
+    "Magnetic Hill",
+    "Khardung La Pass",
+    "Nubra Valley & Hunder",
+    "Pangong Lake via Shyok"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Leh Arrival",
+      "desc": "Acclimatization."
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh Local",
+      "desc": "Magnetic Hill, Confluence, Hall of Fame."
+    },
+    {
+      "day": "Day 3",
+      "title": "Nubra Valley",
+      "desc": "Via Khardung La. Overnight Nubra."
+    },
+    {
+      "day": "Day 4",
+      "title": "Pangong Lake",
+      "desc": "Via Shyok route. Overnight Pangong."
+    },
+    {
+      "day": "Day 5",
+      "title": "Return to Leh",
+      "desc": "Via Chang La pass."
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Airport transfer."
+    }
+  ],
+  "inclusions": [
+    "Stay",
+    "Meals",
+    "Transport",
+    "Oxygen",
+    "First aid"
+  ],
+  "exclusions": [
+    "GST",
+    "Flights",
+    "Adventure activities"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 20600,
+      "details": [
+        "Standard hotels & basic camps"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 34600,
+      "details": [
+        "Upgraded boutique camps"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 42600,
+      "details": [
+        "Luxury resorts & camps"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/ladakh-3.jpg"
+  ],
+  "coverPhoto": "images/ladakh-3.jpg",
+  "essentialTips": [
+    "Hydration is key",
+    "Warm clothing required"
+  ]
+}

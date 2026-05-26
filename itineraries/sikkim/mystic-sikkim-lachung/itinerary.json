@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Mystic Sikkim: Darjeeling & Lachung",
+  "slug": "mystic-sikkim-lachung",
+  "region": "Sikkim",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "April - June",
+  "startingPrice": 42800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Enjoy Darjeeling, Gangtok, and the pristine valley of Lachung. This tour blends scenic beauty and high-altitude adventures with Yumthang Valley.",
+  "route": "Siliguri → Darjeeling → Gangtok → Tsomgo Lake → Lachung → Yumthang → Gangtok",
+  "highlights": [
+    "Sunrise from Tiger Hill",
+    "Darjeeling City exploration",
+    "Tsomgo Lake and Baba Mandir",
+    "North Sikkim adventure to Lachung",
+    "Yumthang Valley"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Darjeeling",
+      "desc": "Transfer from NJP/Bagdogra."
+    },
+    {
+      "day": "Day 2",
+      "title": "Darjeeling Sightseeing",
+      "desc": "Tiger Hill, Ropeway, Tea Gardens."
+    },
+    {
+      "day": "Day 3",
+      "title": "Darjeeling to Gangtok",
+      "desc": "Transfer and rest."
+    },
+    {
+      "day": "Day 4",
+      "title": "Tsomgo Lake",
+      "desc": "Excursion."
+    },
+    {
+      "day": "Day 5",
+      "title": "Gangtok to Lachung",
+      "desc": "Drive via Naga Waterfall."
+    },
+    {
+      "day": "Day 6",
+      "title": "Yumthang Valley Excursion",
+      "desc": "Explore Valley of Flowers."
+    },
+    {
+      "day": "Day 7",
+      "title": "Lachung to Gangtok",
+      "desc": "Return drive."
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "End of trip."
+    }
+  ],
+  "inclusions": [
+    "Transport",
+    "Accommodations",
+    "Breakfast/Dinner",
+    "Permits"
+  ],
+  "exclusions": [
+    "Optional Nathula",
+    "Guides"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 42800,
+      "details": [
+        "Budget rooms"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 48800,
+      "details": [
+        "Standard pleasant rooms"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 61800,
+      "details": [
+        "Premium hotels"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-4.jpg"
+  ],
+  "coverPhoto": "images/sikkim-4.jpg",
+  "essentialTips": [
+    "Strict permit regulations",
+    "Pack very warm clothes for North Sikkim"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Valley Serenity Escape",
+  "slug": "kashmir-valley-serenity-escape",
+  "region": "Kashmir",
+  "duration": "4 Nights / 5 Days",
+  "bestTime": "March - November",
+  "startingPrice": 14999,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Experience the mesmerizing beauty of Kashmir with this thoughtfully designed 5-day itinerary. This journey takes you through the scenic valleys of Pahalgam, the serene landscapes of Srinagar, and the breathtaking destinations of Gulmarg and Sonmarg.",
+  "route": "Srinagar → Pahalgam → Srinagar → Gulmarg → Sonmarg → Srinagar",
+  "highlights": [
+    "Scenic drive from Srinagar to Pahalgam",
+    "Explore famous valleys – Aru, Betaab, Baisaran, and Chandanwari",
+    "Visit Gulmarg, a popular hill station and winter skiing destination",
+    "Experience the famous Gulmarg Gondola ride (optional)",
+    "Full-day excursion to Sonmarg – \"Meadow of Gold\"",
+    "Enjoy the beauty of the Sindh River",
+    "Complimentary Shikara ride on Dal Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Srinagar – Transfer to Pahalgam",
+      "desc": "Arrival at Srinagar Airport. Meet and greet by representative. Drive to Pahalgam. Check-in at hotel. Dinner and overnight stay in Pahalgam."
+    },
+    {
+      "day": "Day 2",
+      "title": "Pahalgam Sightseeing – Transfer to Srinagar",
+      "desc": "Visit Aru Valley, Betaab Valley, Baisaran, and Chandanwari. Later drive to Srinagar. Dinner and overnight in Srinagar."
+    },
+    {
+      "day": "Day 3",
+      "title": "Gulmarg Excursion",
+      "desc": "Morning drive to Gulmarg. Explore the hill station known for skiing. Optional Gondola ride. Return to Srinagar. Overnight stay."
+    },
+    {
+      "day": "Day 4",
+      "title": "Sonmarg Excursion",
+      "desc": "Full-day trip to Sonmarg. Enjoy scenic views of Sindh River. Optional pony ride to glacier. Return to Srinagar in evening."
+    },
+    {
+      "day": "Day 5",
+      "title": "Departure",
+      "desc": "Breakfast at hotel. Transfer to Srinagar Airport. Departure with unforgettable memories."
+    }
+  ],
+  "inclusions": [
+    "Airport pick-up and drop (Srinagar)",
+    "Accommodation for 2 adults (1 room)",
+    "Breakfast and dinner (MAP plan)",
+    "Private vehicle for complete tour",
+    "Parking charges, toll taxes, fuel, and driver expenses",
+    "Sightseeing as per itinerary",
+    "Complimentary 1-hour Shikara ride"
+  ],
+  "exclusions": [
+    "Medical assistance, medicines, or doctor on call",
+    "Personal expenses (shopping, laundry, tips, etc.)",
+    "Meals other than those mentioned",
+    "Entry fees at monuments or attractions",
+    "Adventure activities (skiing, paragliding, Gondola ride, etc.)",
+    "Camera fees and guide charges"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 14999,
+      "details": [
+        "Pahalgam – Standard budget hotel",
+        "Srinagar – Comfortable 3-star hotel"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 21999,
+      "details": [
+        "Pahalgam – Upgraded hotel with better amenities",
+        "Srinagar – Premium hotel or houseboat stay"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 34999,
+      "details": [
+        "Pahalgam – High-end resort",
+        "Srinagar – Luxury hotel or premium houseboat"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Apr 2026",
+      "dates": [
+        "Apr 4",
+        "Apr 11",
+        "Apr 18",
+        "Apr 25"
+      ]
+    },
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 2",
+        "May 9",
+        "May 16",
+        "May 23",
+        "May 30"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 6",
+        "Jun 13",
+        "Jun 20",
+        "Jun 27"
+      ]
+    },
+    {
+      "month": "Oct 2026",
+      "dates": [
+        "Oct 3",
+        "Oct 10",
+        "Oct 17",
+        "Oct 24"
+      ]
+    },
+    {
+      "month": "Nov 2026",
+      "dates": [
+        "Nov 7",
+        "Nov 14",
+        "Nov 21"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-1.jpg",
+    "images/kashmir-2.jpg",
+    "images/kashmir-3.jpg",
+    "images/kashmir-4.jpg",
+    "images/kashmir-5.jpg"
+  ],
+  "coverPhoto": "images/kashmir-1.jpg",
+  "essentialTips": [
+    "Carry valid government-issued ID proof",
+    "Pack warm clothing regardless of season",
+    "Wear comfortable shoes for sightseeing",
+    "Keep some cash for local expenses",
+    "Book Gondola ride in advance during peak season"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Leh Ladakh Tour Package",
+  "slug": "leh-ladakh-tour",
+  "region": "Ladakh",
+  "duration": "4 Nights / 5 Days",
+  "bestTime": "May - September",
+  "startingPrice": 19600,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Experience the beauty of Ladakh with this compact yet exciting 5-day tour.",
+  "route": "Leh → Nubra Valley → Pangong Lake → Leh",
+  "highlights": [
+    "Shanti Stupa panoramics",
+    "Hall of Fame & Gurudwara Patthar Sahib",
+    "Magnetic Hill mystery",
+    "Indus & Zanskar river confluence",
+    "Khardung La Pass",
+    "Nubra Valley and Hunder dunes",
+    "Pangong Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Leh",
+      "desc": "Transfer to hotel, rest for acclimatization. Evening Shanti Stupa."
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh Local Sightseeing",
+      "desc": "Hall of Fame, Gurudwara Patthar Sahib, Magnetic Hill, Confluence."
+    },
+    {
+      "day": "Day 3",
+      "title": "Nubra via Khardung La",
+      "desc": "Drive to Nubra Valley. Diskit Monastery, Hunder dunes."
+    },
+    {
+      "day": "Day 4",
+      "title": "Nubra – Pangong – Leh",
+      "desc": "Pangong Lake via Shyok. Return to Leh via Chang La."
+    },
+    {
+      "day": "Day 5",
+      "title": "Departure",
+      "desc": "Transfer to Leh Airport."
+    }
+  ],
+  "inclusions": [
+    "Hotels/Camps",
+    "Breakfast & dinner",
+    "Airport pickup/drop",
+    "Vehicle",
+    "Oxygen cylinder",
+    "Permits"
+  ],
+  "exclusions": [
+    "Airfare",
+    "Personal expenses",
+    "Adventure activities"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 19600,
+      "details": [
+        "Standard hotels/Camps"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 26600,
+      "details": [
+        "Upgraded hotels/Comfortable camps"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 34600,
+      "details": [
+        "Premium hotels/Luxury camps"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/ladakh-1.jpg",
+    "images/ladakh-2.jpg"
+  ],
+  "coverPhoto": "images/ladakh-1.jpg",
+  "essentialTips": [
+    "Acclimatize well",
+    "Postpaid SIMs only"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Shimla–Manali–Kasol Escape",
+  "slug": "shimla-manali-kasol-escape",
+  "region": "Himachal",
+  "duration": "9 Nights / 10 Days",
+  "bestTime": "April - July",
+  "startingPrice": 20800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "This Himalayan journey blends the colonial elegance of Shimla, the adventure hub of Manali, and the serene charm of Kasol.",
+  "route": "Chandigarh → Shimla → Kufri → Manali → Solang Valley → Sissu → Kasol → Manikaran → Chandigarh",
+  "highlights": [
+    "Shimla & Kufri sightseeing",
+    "Snow activities at Solang Valley",
+    "Drive through Atal Tunnel",
+    "Riverside cafés in Kasol",
+    "Manikaran Sahib Gurudwara"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Departure",
+      "desc": "Train journey to Chandigarh."
+    },
+    {
+      "day": "Day 2",
+      "title": "Chandigarh to Shimla",
+      "desc": "Drive to Shimla, Mall Road visit."
+    },
+    {
+      "day": "Day 3",
+      "title": "Shimla & Kufri",
+      "desc": "Kufri exploration."
+    },
+    {
+      "day": "Day 4",
+      "title": "Shimla to Manali",
+      "desc": "Drive to Manali via Kullu."
+    },
+    {
+      "day": "Day 5",
+      "title": "Atal Tunnel & Sissu",
+      "desc": "Explore Solang, Atal Tunnel, Sissu."
+    },
+    {
+      "day": "Day 6",
+      "title": "Manali Local",
+      "desc": "Hadimba, Vashisht, Old Manali."
+    },
+    {
+      "day": "Day 7",
+      "title": "Manali to Kasol",
+      "desc": "Drive to Kasol, cafe hopping."
+    },
+    {
+      "day": "Day 8",
+      "title": "Kasol & Manikaran",
+      "desc": "Visit Manikaran Gurudwara."
+    },
+    {
+      "day": "Day 9",
+      "title": "Return Journey",
+      "desc": "Drive to Chandigarh, train back."
+    },
+    {
+      "day": "Day 10",
+      "title": "Arrival",
+      "desc": "Trip ends."
+    }
+  ],
+  "inclusions": [
+    "Hotels",
+    "Transfers",
+    "Breakfast & dinner",
+    "Driver guide"
+  ],
+  "exclusions": [
+    "GST",
+    "Personal expenses",
+    "Adventure activities"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 20800,
+      "details": [
+        "3-star hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 28800,
+      "details": [
+        "4-star hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 38800,
+      "details": [
+        "5-star premium properties"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Comfortable shoes",
+    "Follow safety guidelines in hilly regions"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Complete Explorer",
+  "slug": "kashmir-complete-explorer-old",
+  "region": "Kashmir",
+  "duration": "9 Nights / 10 Days",
+  "bestTime": "March - November",
+  "startingPrice": 24999,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Explore the full beauty of Kashmir with this comprehensive 10-day itinerary covering all major destinations. From the iconic Dal Lake to the scenic valleys of Pahalgam, the snowy peaks of Gulmarg, and the golden meadows of Sonmarg — this trip offers everything Kashmir has to offer.",
+  "route": "Srinagar → Gulmarg → Pahalgam → Sonmarg → Doodhpathri → Yusmarg → Srinagar",
+  "highlights": [
+    "Stay in iconic Srinagar houseboat",
+    "Visit all Mughal Gardens — Nishat, Shalimar, Chashme Shahi",
+    "Full-day Gulmarg excursion with optional Gondola",
+    "Pahalgam sightseeing with Aru, Betaab & Chandanwari",
+    "Sonmarg day trip – the Meadow of Gold",
+    "Doodhpathri & Yusmarg hidden gems excursion",
+    "Shikara ride on Dal Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Srinagar",
+      "desc": "Arrive at Srinagar Airport. Transfer to houseboat on Dal Lake. Evening Shikara ride. Overnight at houseboat."
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar Local Sightseeing",
+      "desc": "Visit Mughal Gardens — Nishat Bagh, Shalimar Bagh, Chashme Shahi. Visit Hazratbal Shrine and Shankaracharya Temple. Overnight in Srinagar."
+    },
+    {
+      "day": "Day 3",
+      "title": "Srinagar to Gulmarg",
+      "desc": "Drive to Gulmarg. Explore meadows and take optional Gondola ride for panoramic views. Overnight in Gulmarg."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gulmarg to Pahalgam",
+      "desc": "Drive to Pahalgam via Srinagar. Stop at Awantipora ruins en route. Check in and explore Pahalgam town. Overnight in Pahalgam."
+    },
+    {
+      "day": "Day 5",
+      "title": "Pahalgam Sightseeing",
+      "desc": "Visit Aru Valley, Betaab Valley, Baisaran, and Chandanwari. Enjoy horse riding or nature walks. Overnight in Pahalgam."
+    },
+    {
+      "day": "Day 6",
+      "title": "Pahalgam to Srinagar",
+      "desc": "Drive back to Srinagar. Shopping for Kashmiri Pashmina and handicrafts. Overnight in Srinagar hotel."
+    },
+    {
+      "day": "Day 7",
+      "title": "Sonmarg Excursion",
+      "desc": "Full day trip to Sonmarg. Visit Thajiwas Glacier and enjoy the scenic beauty. Return to Srinagar."
+    },
+    {
+      "day": "Day 8",
+      "title": "Doodhpathri Excursion",
+      "desc": "Excursion to Doodhpathri – the Valley of Milk. Explore beautiful meadows and streams. Return to Srinagar."
+    },
+    {
+      "day": "Day 9",
+      "title": "Yusmarg Excursion",
+      "desc": "Excursion to Yusmarg, a peaceful meadow surrounded by forests. Visit Nilnag Lake. Return to Srinagar."
+    },
+    {
+      "day": "Day 10",
+      "title": "Departure",
+      "desc": "Transfer to Srinagar Airport. Departure with unforgettable memories."
+    }
+  ],
+  "inclusions": [
+    "Airport pickup and drop in Srinagar",
+    "Accommodation for 2 adults (1 room)",
+    "Daily breakfast and dinner",
+    "Private vehicle for transfers and sightseeing",
+    "Driver allowance, fuel, toll, and parking charges",
+    "Complimentary 1-hour Shikara ride"
+  ],
+  "exclusions": [
+    "Local sightseeing transport in Gulmarg, Pahalgam, Doodhpathri, and Sonmarg",
+    "Adventure activities such as skiing, Gondola ride, paragliding, etc.",
+    "Personal expenses",
+    "Entry fees and camera charges at monuments",
+    "Guide services"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 24999,
+      "details": [
+        "Srinagar: Budget hotel (6 nights)",
+        "Houseboat: Standard category (1 night)",
+        "Pahalgam: Budget hotel (1 night)",
+        "Gulmarg: Standard hotel (1 night)"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 35999,
+      "details": [
+        "Srinagar: 3-star hotel",
+        "Houseboat: Upgraded category",
+        "Pahalgam: Comfortable 3-star hotel",
+        "Gulmarg: Mid-range hotel"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 52999,
+      "details": [
+        "Srinagar: 4–5 star hotel",
+        "Houseboat: Premium luxury category",
+        "Pahalgam: High-end resort",
+        "Gulmarg: Premium resort"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Apr 2026",
+      "dates": [
+        "Apr 3",
+        "Apr 10",
+        "Apr 17",
+        "Apr 24"
+      ]
+    },
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 1",
+        "May 8",
+        "May 15",
+        "May 22"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18"
+      ]
+    },
+    {
+      "month": "Oct 2026",
+      "dates": [
+        "Oct 2",
+        "Oct 9",
+        "Oct 16",
+        "Oct 23"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-5.jpg",
+    "images/kashmir-6.jpg",
+    "images/kashmir-3.jpg",
+    "images/kashmir-1.jpg",
+    "images/kashmir-4.jpg"
+  ],
+  "coverPhoto": "images/kashmir-5.jpg",
+  "essentialTips": [
+    "Carry valid government ID proof",
+    "Pack warm clothing year-round",
+    "Wear comfortable shoes",
+    "Follow local rules and respect traditions"
+  ]
+}

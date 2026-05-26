@@ -1,0 +1,89 @@
+{
+  "category": "trekking",
+  "region": "Himachal",
+  "slug": "chandratal-lake-trek",
+  "name": "Chandratal Lake Trek",
+  "upcoming": false,
+  "duration": "10 Days / 9 Nights",
+  "route": "Manali → Rohtang Pass → Chhatru → Chhota Dara → Batal → Chandratal → Batal → Manali",
+  "startingPrice": null,
+  "description": "The Chandratal-Baralacha Trek takes the trekkers all over the majestic Himalayas to explore the cold and dry mountain desert of Spiti and Lahaul Valley while passing across Bara Shigri Glacier, the biggest glacier in Himachal Pradesh. The route further takes us through the beautiful Chandratal Lake at an altitude of 4270 meters. Chandratal, which means the Lake of Moon, is shaped like a half moon and is set on a large meadow of edelweiss within a lower ridge and the main Kunzum range. The trek to Chandratal, the “Moon Lake\" is almost like going to the moon and the region brings the feeling as if the explorer has been to a new place for the very first time. And the most eligible reason for such feeling is that the landscape and the environment of the whole region keep on changing with every sighting much better than before. And once you are at the lake the world just stands still and the trekkers faint into another world. The lake truly magnetizes anyone and a glorious trek to this region is moderately difficult type and brings an opportunity to ascent across an altitude of 4800 m without much difficulty. The Chandratal - Baralacha trek ends on top of the Baralacha Pass (4890 m), which marks the highest point of the trek. From there, the tourists can go back by jeep and can have a stopover in Keylong (optional). This is a perfect trek during monsoon time, since there is no rain in this fascinating valley. Witness the breathtaking beauty of the high-altitude lake, famed for changing colours throughout the day during your Chandratal trekking tour. Cross the majestic Baralacha La Pass (4,890 m) while experiencing one of the most scenic trekking routes in the Himalayas. Trek through vibrant meadows, rocky terrains, sparkling streams, and dramatic barren landscapes on this Chandratal trek in Himachal. Camp under a sky full of stars by the serene lakeside of Chandratal, a must-do on any Himachal Pradesh trekking tour. Cross remote villages and ancient valleys, getting glimpses of the unique culture and lifestyle of the Lahaul and Spiti region. Witness breathtaking sunrises and sunsets over snow-capped Himalayan peaks, adding magic to your Chandratal trekking tour package.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrive Delhi",
+      "desc": "On arrival met our representative and then transfer to hotel for overnight stay"
+    },
+    {
+      "day": "Day 2",
+      "title": "Delhi - Manali",
+      "desc": "In the morning half day sightseeing and in the evening drive to Manali by AC Volvo coach. Overnight journey"
+    },
+    {
+      "day": "Day 3",
+      "title": "Manali",
+      "desc": "Arrival at Manali by morning. On arrival transfer to hotel for relax. At leisure visit Hadimba Devi Temple, old Manali, Tibetan Monastery and the mall. Overnight stay in the hotel"
+    },
+    {
+      "day": "Day 4",
+      "title": "Manali - Keylong",
+      "desc": "Morning after breakfast drive to Keylong (115 kms/4 - 5 hrs approx) via Rohtang pass (3980 mts/13055 ft) for acclimatisation purpose. Go on short hikes around Keylong. Keylong is the capital town of Lahaul and has numerous cultivated fields bordered with willow and poplar trees, in-between the surrounding barren landscape. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 5",
+      "title": "Keylong - Batal",
+      "desc": "We will drive to Batal from Keylong in the morning. Arrive in Batal for lunch. We will go on an acclimatising hike from here. Return to the camp in the evening. Dinner & overnight stay in tents"
+    },
+    {
+      "day": "Day 6",
+      "title": "Batal - Chandratal",
+      "desc": "Today we will trek 18 kms to reach Chandratal and it will take us about 5-6 hrs, while on this trek we will get a nice view of the Lahaul range, peaks like Minar(6172 M), Talagiri(6279 M), Tara Pahar(6227 M) and Mulkila (6517 M). Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 7",
+      "title": "Chandratal",
+      "desc": "The day is for exploration the surroundings. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 8",
+      "title": "Chandratal - Manali",
+      "desc": "After breakfast drive for Manali via Batal, Chatru and Rohtang Pass. Over night stay at Manali"
+    },
+    {
+      "day": "Day 9",
+      "title": "Manali - Delhi",
+      "desc": "The day at leisure. In the evening drive to Delhi by AC Volvo coach. Overnight journey"
+    },
+    {
+      "day": "Day 10",
+      "title": "Delhi",
+      "desc": "Arrival at Delhi by morning. On arrival transfer to hotel for relax. In the evening drive to international airport to catch onwards flight Trip ends here"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": "June to September",
+  "trekFacts": {
+    "Trek Start from": "Manali",
+    "Trek End at": "Manali",
+    "Duration": "10-Day (from Delhi)",
+    "Max Altitude": "4890 m /16043 feet",
+    "Grade": "Easy to Moderate",
+    "Best Time": "June, July August and September"
+  },
+  "photos": [
+    "images/chandratal-trek-banner.webp",
+    "images/chandratal-trek1.webp",
+    "images/chandratal-trek2.webp",
+    "images/chandratal-trek3.webp",
+    "images/chandratal-trek4.webp",
+    "images/chandratal-trek5.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/chandratal-trek-banner.webp",
+  "hasData": true
+}

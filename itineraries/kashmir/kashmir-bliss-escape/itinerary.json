@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Bliss Escape",
+  "slug": "kashmir-bliss-escape",
+  "region": "Kashmir",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "April - October",
+  "startingPrice": 16500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Explore the breathtaking beauty of Kashmir with this well-crafted 6-day journey. Mughal gardens, scenic valleys, traditional houseboat stays.",
+  "route": "Srinagar → Pahalgam → Gulmarg → Srinagar → Sonmarg → Srinagar",
+  "highlights": [
+    "Mughal Gardens",
+    "Shikara ride on Dal Lake",
+    "Pahalgam Aru, Betaab valleys",
+    "Gulmarg Gondola",
+    "Sonmarg excursion"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Srinagar Arrival",
+      "desc": "Mughal Gardens."
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar to Pahalgam",
+      "desc": "Drive to Pahalgam, sightseeing."
+    },
+    {
+      "day": "Day 3",
+      "title": "Pahalgam to Gulmarg",
+      "desc": "Drive to Gulmarg."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gulmarg to Srinagar",
+      "desc": "Return, Shankaracharya Temple."
+    },
+    {
+      "day": "Day 5",
+      "title": "Sonmarg Excursion",
+      "desc": "Day trip to Meadow of Gold."
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Airport."
+    }
+  ],
+  "inclusions": [
+    "Airport pickup",
+    "Accommodation",
+    "MAP plan",
+    "Private vehicle",
+    "Shikara ride"
+  ],
+  "exclusions": [
+    "Personal expenses",
+    "Adventure activities",
+    "Local union transport"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 16500,
+      "details": [
+        "Budget hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 22500,
+      "details": [
+        "Premium hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 34500,
+      "details": [
+        "Luxury hotels & houseboats"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-2.jpg"
+  ],
+  "coverPhoto": "images/kashmir-2.jpg",
+  "essentialTips": [
+    "Warm clothes",
+    "Comfortable shoes"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "category": "trekking",
+  "region": "Himachal",
+  "slug": "hampta-pass-trek",
+  "name": "Hampta Pass Trek",
+  "upcoming": false,
+  "duration": "10 Days / 9 Nights",
+  "route": "Manali → Jobra → Chika → Balu Ka Ghera → Hampta Pass → Shea Goru → Chatru → Chandratal → Manali",
+  "startingPrice": null,
+  "description": "The Hampta Pass Trek is among the most breathtaking and thrilling treks in the Himalayas. This trek in Himachal Pradesh presents a remarkable expedition and takes 5 to 6 days to complete. It has landscapes ranging from the vibrant green valleys of Kullu to the arid, high-altitude deserts of Lahaul. Beginning at Jobra, close to Manali, the route goes through lovely campsites such as Chika, Balu Ka Ghera, and Shea Goru, ultimately crossing the exciting Hampta Pass at a height of approximately 4,270 meters. This moderate to difficult trek in Himachal Pradesh is good for people who have done some trekking before or are physically fit. It is about 25–30 km long and has river crossings, snowy areas, and some steep climbs. The best part is how the views keep changing as you walk through pine forests, see waterfalls, colorful meadows, and rocky paths. If the weather is good, you can also visit the stunning Chandratal Lake, a high mountain lake in Spiti, which makes the trek even more special. Traditionally, Hampta Pass has been a key route for shepherds (locally known as “Gaddis”) who transported their livestock between the grassy fields of Kullu Valley and the dry areas of Lahaul and Spiti. This annual movement assisted them in locating improved pastures for their animals. Thus, as you hike here, you are actually traversing ancient routes utilized for both survival and commerce. The Hampta Pass trek in Himachal is a great choice for people who want a short but exciting adventure in the mountains. It’s among the popular Himachal Pradesh trekking tours and is perfect for anyone who wants to see both green valleys and dry, rocky deserts in one trek.",
+  "highlights": [
+    "Hampta Pass trek leads you across various landscapes, from green forests and grassy meadows to snow-covered paths and dry mountain deserts",
+    "This combination of nature makes the trip thrilling and packed with surprises",
+    "On the first day of the trek, you’ll cross Rani Nallah, a small but lively mountain stream flowing through the Chika campsite",
+    "Walk through meadows filled with Himalayan flowers like blue poppies, primulas, buttercups, and the rare Brahma Kamal",
+    "This natural burst of color makes the trek even more magical and is a treat for nature lovers and photographers",
+    "Camp at amazing spots like Chika and Balu Ka Ghera",
+    "These campsites are peaceful, surrounded by nature, and you sleep under the stars with mountains all around, perfect for relaxing after a long day’s walk",
+    "Shea Goru is one of the most peaceful and scenic campsites on the trek, surrounded by snow-covered peaks and a gentle stream flowing nearby",
+    "The name means \"Cold Street,\" and it truly lives up to its name with chilly winds and stunning views",
+    "During the Hampta Pass trekking tour, you’ll also see waterfalls such as Jwara Waterfall,one of the most scenic parts of the trek near Jwara, cross rivers, and walk on snow patches",
+    "These little adventures make the trek more fun and memorable"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi - Manali",
+      "desc": "(575 kms/14 hrs) In the evening drive to Manali by AC Volvo coach. Overnight journey"
+    },
+    {
+      "day": "Day 2",
+      "title": "Manali",
+      "desc": "Arrival at Manali by morning. On arrival transfer to hotel for relax. At leisure visit Hadimba Devi Temple, old Manali, Tibetan Monastery and the mall. Overnight stay in the hotel"
+    },
+    {
+      "day": "Day 3",
+      "title": "Manali - Pandu Ropa",
+      "desc": "(4 hrs) We drive to Prini and then from Prini we reach Pando Ropa, 4 hours trek which goes steeply along side of Hampta Nala through forest. Overnight in camp"
+    },
+    {
+      "day": "Day 4",
+      "title": "Pandu Ropa - Chikka",
+      "desc": "Gradual up trek passes through forest and meadow up to Chikka camp, and ideal site with water and firewood. Overnight in tents"
+    },
+    {
+      "day": "Day 5",
+      "title": "Chikka - Balu Ka Gera",
+      "desc": "We trek uphill, a steep climb, to Juara and then gradual climb up to the camp site at Balu Ka Gera. Overnight in tents"
+    },
+    {
+      "day": "Day 6",
+      "title": "Balu Ka Gera - Hampta Pass",
+      "desc": "Steep ascent up to Hampta Pass for 3 kms and then descent on the other side in steep slope up to Camp Site. Mt. Deo Tibba and Indrasan are visible along with a wide view of the Lahaul Valley"
+    },
+    {
+      "day": "Day 7",
+      "title": "Hampta Pass - Chattru",
+      "desc": "On the 7th day of Hampta Pass Trek, we make a steep descent up to Chattru Camp site. Overnight in camp"
+    },
+    {
+      "day": "Day 8",
+      "title": "Chattru - Solang",
+      "desc": "The Hampta Pass Trek continues and we reach Solang from Chattru. Overnight in camp"
+    },
+    {
+      "day": "Day 9",
+      "title": "Solang - Manali - Delhi",
+      "desc": "In the morning after breakfast drive to Manali and visit Hadimba Devi temple, old Manali and Vashisth Village (hot water spring). In the evening drive to Delhi by AC Volvo coach Overnight journey"
+    },
+    {
+      "day": "Day 10",
+      "title": "Delhi - Departure",
+      "desc": "Arrival at Delhi by morning"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": "June to July",
+  "trekFacts": {
+    "Trek Start from": "Manali",
+    "Trek End at": "Manali",
+    "Duration": "10-Day (from Delhi)",
+    "Max Altitude": "14100 Ft.",
+    "Grade": "Moderate",
+    "Best Time": "June, July, August & September"
+  },
+  "photos": [
+    "images/hampta-pass-trek-01.webp",
+    "images/hampta-pass-trek-03.webp",
+    "images/hampta-pass-trek-04.webp",
+    "images/hampta-pass-trek-05.webp",
+    "images/hampta-pass-trek-banner.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/hampta-pass-trek-01.webp",
+  "hasData": true
+}

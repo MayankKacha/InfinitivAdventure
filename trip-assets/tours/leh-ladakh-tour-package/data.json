@@ -1,0 +1,106 @@
+{
+  "category": "tours",
+  "region": "Ladakh",
+  "slug": "leh-ladakh-tour-package",
+  "name": "Leh Ladakh tour package",
+  "upcoming": false,
+  "duration": "5 Days / 4 Nights",
+  "route": "Leh → Nubra Valley → Pangong Lake → Leh",
+  "startingPrice": null,
+  "description": "Experience the beauty of Ladakh with this compact yet exciting 5-day tour. Set at an altitude of around 12,500 ft, Leh offers stunning landscapes, monasteries, rivers, and high mountain passes. This journey takes you through the cultural heart of Leh, the scenic Nubra Valley, and the mesmerizing Pangong Lake. Designed with proper acclimatization and balanced travel, this trip is perfect for those looking to explore Ladakh in a short duration.",
+  "highlights": [
+    "Visit Shanti Stupa for panoramic views of Leh",
+    "Explore Hall of Fame Museum and Gurudwara Patthar Sahib",
+    "Experience the mystery of Magnetic Hill",
+    "Witness the confluence of Indus and Zanskar rivers",
+    "Drive through Khardung La Pass (one of the highest motorable roads)",
+    "Explore Nubra Valley and Hunder Sand Dunes",
+    "Enjoy a camel ride on double-humped camels (optional)",
+    "Visit the stunning Pangong Lake",
+    "Cross Chang La Pass on the return journey"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Leh Airport and transfer to hotel",
+      "desc": "Upon arrival at the airport, one of our representatives will meet you and will set off to hotel in the heart of the Leh Town, rest for the day & acclimatize to the high altitude of Ladakh. During day or evening, you will meet our representative who will introduce you to the highlights of the entire tour. In the evening, you will take a walk to Market and visit Shanti Stupa on the hill to get a panoramic view of Leh town. Overnight Hotel in Leh"
+    },
+    {
+      "day": "Day 2",
+      "title": "Leh Local Sightseeing",
+      "desc": "After breakfast drive towards western part of Ladakh along the Indus River on Leh Srinagar highway, start sightseeing. Visit Hall of Fame (Museum founded by India Army) near Leh is worth a visit for every Indian, and proceed further to Gurudwara Patthar Sahib founded in 15th century, nestled deep in the Himalayas, drive ahead another 5 km for Magnetic Hill which defies the law of gravity & further Driving through a picturesque landscape & visit Sangam - The Confluence of The Indus and Zanskar River. After visiting above, places drive back to Leh. Distance 70-80 km approx Overnight at hotel in Leh"
+    },
+    {
+      "day": "Day 3",
+      "title": "Drive through Khardung La Pass. Arrive in Nubra Valley (Valley of Flowers)",
+      "desc": "After breakfast drive towards to Nubra Valley, driving across Khardong-la (The Second Highest Motor able Road in the World alt: 5602Mts/18390Ft). After descending from the pass, Nubra Valley is popularly known as Ldorma or the valley of flowers. It is situated to the north of Ladakh between the Karakoram and Ladakh ranges of the Himalayas. Arrive at Hunder & check in at Hotel/Camps. Later visit Deskit monastery & the Sand Dunes where you can enjoy a short camel safari using the double-humped Bactrian camel found here (optional on direct payment). Distance 160 km approx Overnight at Hotel / Camp"
+    },
+    {
+      "day": "Day 4",
+      "title": "Drive to Pangong Lake via Shyok route And Return to Leh via Chang La Pass",
+      "desc": "After breakfast, leave for famous Pangong Lake located on the boarder of India and China en route you can enjoy the drive along with the river Shayok . Reach Pangong Lake. 2-3 Hours will be there for your own to explore the beauty of the lake. Later drive back to Leh by crossing the world second highest motorable pass (Chang La Pass at an elevation of 5360 M) en route Thiksey Monastery, Rancho School. Enjoy sumptuous dinner and have restful Distance 280-300 km approx overnight stay at the hotel in Leh"
+    },
+    {
+      "day": "Day 5",
+      "title": "Departure",
+      "desc": "After breakfast, Our teams thank you for your patronage and ensure a punctual drop to Airport to catch the flight for your onward Destination"
+    }
+  ],
+  "inclusions": [
+    "3 Nights stay in Leh with breakfast & dinner",
+    "1 Night stay in Nubra Valley (hotel/camp) with meals",
+    "Airport pick-up and drop (Leh)",
+    "Private vehicle (Innova/Xylo/Scorpio/Ertiga or Tempo Traveller)",
+    "Experienced driver",
+    "Oxygen cylinder (for Nubra & Pangong)",
+    "All toll taxes and parking charges",
+    "First aid kit",
+    "24x7 assistance"
+  ],
+  "exclusions": [
+    " Airfare and GST",
+    " Personal expenses (shopping, laundry, tips, etc.)",
+    " Entry fees and camera charges",
+    " Adventure activities (camel ride, rafting, ATV, etc.)",
+    " Travel insurance and medical expenses",
+    " Vehicle service during leisure time",
+    " Extra costs due to delays, weather, or road conditions",
+    " AC vehicle (available at additional cost)"
+  ],
+  "essentialTips": [
+    "Carry valid ID proof (Aadhar / Passport / Voter ID)",
+    "Use postpaid SIM cards for better connectivity",
+    "Pack warm clothes including thermals and jackets",
+    "Carry sunscreen, moisturizer, and sunglasses",
+    "Stay hydrated to prevent altitude sickness",
+    "Start journeys early due to changing weather conditions"
+  ],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-19-.jpg",
+    "images/IMG-20-.jpg",
+    "images/IMG-21-.jpg",
+    "images/IMG-22-.jpg",
+    "images/IMG-23-.jpg",
+    "images/IMG-24-.jpg",
+    "images/IMG-25-.jpg",
+    "images/IMG-26-.jpg",
+    "images/IMG-27-.jpg",
+    "images/IMG-28-.jpg",
+    "images/IMG-29-.jpg",
+    "images/IMG-30-.jpg",
+    "images/IMG-31-.jpg",
+    "images/IMG-32-.jpg",
+    "images/IMG-33-.jpg",
+    "images/IMG-34-.jpg",
+    "images/IMG-35-.jpg",
+    "images/IMG-36-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

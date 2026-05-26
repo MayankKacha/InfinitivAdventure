@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Majestic Kashmir Tour Package",
+  "slug": "majestic-kashmir-tour",
+  "region": "Kashmir",
+  "duration": "4 Nights / 5 Days",
+  "bestTime": "April - October",
+  "startingPrice": 14500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Experience the breathtaking beauty of Kashmir with this carefully designed tour package. From the lush valleys of Pahalgam to the serene lakes of Srinagar and snow-covered Gulmarg.",
+  "route": "Jammu → Pahalgam → Srinagar → Gulmarg → Sonmarg → Jammu",
+  "highlights": [
+    "Pahalgam valleys and scenic beauty",
+    "Traditional Srinagar houseboat stay",
+    "Gulmarg Gondola ride (optional)",
+    "Sonmarg Meadow of Gold",
+    "Shikara ride in Srinagar"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Jammu – Transfer to Pahalgam",
+      "desc": "Transfer to Pahalgam hotel. Overnight stay."
+    },
+    {
+      "day": "Day 2",
+      "title": "Pahalgam Sightseeing – Transfer to Srinagar",
+      "desc": "Explore Pahalgam valleys. Travel to Srinagar."
+    },
+    {
+      "day": "Day 3",
+      "title": "Gulmarg Excursion",
+      "desc": "Morning drive to Gulmarg. Explore hill station."
+    },
+    {
+      "day": "Day 4",
+      "title": "Sonmarg Excursion",
+      "desc": "Full-day visit to Sonmarg. Returns to Srinagar."
+    },
+    {
+      "day": "Day 5",
+      "title": "Departure",
+      "desc": "Transfer to Jammu."
+    }
+  ],
+  "inclusions": [
+    "Pick-up/drop Jammu",
+    "Accommodation",
+    "Breakfast & Dinner",
+    "Private vehicle",
+    "Shikara ride"
+  ],
+  "exclusions": [
+    "Medical expenses",
+    "Local sightseeing union transport",
+    "Adventure activities"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 14500,
+      "details": [
+        "Srinagar 2N, Houseboat 1N, Pahalgam 1N"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 19500,
+      "details": [
+        "Upgraded hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 28500,
+      "details": [
+        "High-end hotels"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-1.jpg"
+  ],
+  "coverPhoto": "images/kashmir-1.jpg",
+  "essentialTips": [
+    "Valid ID proof",
+    "Warm clothes",
+    "Book Gondola in advance"
+  ]
+}

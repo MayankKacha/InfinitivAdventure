@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Grand Tour Package",
+  "slug": "kashmir-grand-tour",
+  "region": "Kashmir",
+  "duration": "9 Nights / 10 Days",
+  "bestTime": "March - November",
+  "startingPrice": 26500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Comprehensive 10-day itinerary, covering iconic destinations along with serene offbeat locations like Doodhpathri and Yusmarg.",
+  "route": "Srinagar → Pahalgam → Gulmarg → Srinagar → Doodhpathri → Sonmarg → Yusmarg",
+  "highlights": [
+    "Extended Srinagar houseboat stay",
+    "Doodhpathri Valley of Milk",
+    "Yusmarg and Nilnag Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Srinagar arrival."
+    },
+    {
+      "day": "Day 2",
+      "title": "Pahalgam",
+      "desc": "Drive to Pahalgam."
+    },
+    {
+      "day": "Day 3",
+      "title": "Pahalgam Local",
+      "desc": "Exploration."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gulmarg",
+      "desc": "Transfer to Gulmarg."
+    },
+    {
+      "day": "Day 5",
+      "title": "Srinagar",
+      "desc": "Return."
+    },
+    {
+      "day": "Day 6",
+      "title": "Doodhpathri",
+      "desc": "Excursion."
+    },
+    {
+      "day": "Day 7",
+      "title": "Srinagar Local",
+      "desc": "Mughal Gardens."
+    },
+    {
+      "day": "Day 8",
+      "title": "Sonmarg",
+      "desc": "Meadow of Gold."
+    },
+    {
+      "day": "Day 9",
+      "title": "Yusmarg",
+      "desc": "Peaceful meadow."
+    },
+    {
+      "day": "Day 10",
+      "title": "Departure",
+      "desc": "Srinagar airport."
+    }
+  ],
+  "inclusions": [
+    "Transport",
+    "Hotels",
+    "Meals",
+    "Shikara"
+  ],
+  "exclusions": [
+    "Local unions",
+    "Gondola",
+    "Guides"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 26500,
+      "details": [
+        "Budget rooms"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 35500,
+      "details": [
+        "3-star hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 54500,
+      "details": [
+        "High-end resorts"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-4.jpg"
+  ],
+  "coverPhoto": "images/kashmir-4.jpg",
+  "essentialTips": [
+    "Warm clothing",
+    "Pony rides optional"
+  ]
+}

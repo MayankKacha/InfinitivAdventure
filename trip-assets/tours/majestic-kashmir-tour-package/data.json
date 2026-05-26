@@ -1,0 +1,122 @@
+{
+  "category": "tours",
+  "region": "Kashmir",
+  "slug": "majestic-kashmir-tour-package",
+  "name": "Majestic Kashmir Tour Package",
+  "upcoming": false,
+  "duration": "5 Days / 4 Nights",
+  "route": "Jammu → Pahalgam → Srinagar → Gulmarg → Sonmarg → Jammu",
+  "startingPrice": null,
+  "description": "Experience the breathtaking beauty of Kashmir with this carefully designed tour package. From the lush valleys of Pahalgam to the serene lakes of Srinagar and the snow-covered landscapes of Gulmarg and Sonmarg, this journey offers a perfect blend of nature, relaxation, and adventure.  2 Enjoy peaceful stays in hotels and a traditional Houseboat, explore scenic valleys, and immerse yourself in the charm of Kashmir, often referred to as “Paradise on Earth.”",
+  "highlights": [
+    "Explore the scenic beauty of Pahalgam and its famous valleys",
+    "Enjoy a stay in a traditional Srinagar Houseboat",
+    "Visit Gulmarg, a popular destination for snow and skiing",
+    "Experience the famous Gulmarg Gondola ride (optional)",
+    "Discover the beauty of Sonmarg, known as the “Meadow of Gold”",
+    "Enjoy a complimentary Shikara ride in Srinagar",
+    "Witness rivers, valleys, and snow-capped mountains"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival at Jammu – Transfer to Pahalgam",
+      "desc": "On arrival at Jammu Airport / Railway station meet our Representative, who will take you to the Hotel in Pahalgam And Overnight Stay at hotel in Pahalgam"
+    },
+    {
+      "day": "Day 2",
+      "title": "Pahalgam Sightseeing – Transfer to Srinagar",
+      "desc": "After Breakfast ,Take a Tour of Pahalgam, Pahalgam Has Places Like Betab Valley, Aru Valley, Baisaran, Chandanwadi and more. Leave For Srinagar later and enjoy Your Stay at Srinagar Hotel/Houseboat"
+    },
+    {
+      "day": "Day 3",
+      "title": "Gulmarg Excursion",
+      "desc": "Early in the morning leave for Gulmarg. A town, a hill station, a popular skiing destination during winters. Gulmarg is famous because of its “Gulmarg Gondola,” one of the highest cable cars in the world (Direct Payment Basis). Return Back to Srinagar"
+    },
+    {
+      "day": "Day 4",
+      "title": "Day 4",
+      "desc": "Sonmarg Excursion Today you embark on a full day excursion to the picturesque 'meadow of gold’ Sonamarg. The fast flowing Sindh River makes it popular for trout and masher fishing in summer. You can opt for a pony ride to one of the glaciers for some fun in snow and ice (by your own payment). Return to the Hotel in Srinagar in the evening and enjoy comfortable overnight stay. Note: The vehicle will drop and pick you up at Sonmarg car stand. To reach the glaciers, you can hire ponies by your own payment basis. Return to the Hotel in Srinagar in the evening and enjoy comfortable overnight stay"
+    },
+    {
+      "day": "Day 5",
+      "title": "Day 5",
+      "desc": "Departure Early in the morning After Breakfast Leave for Jammu Airport/Railway Station to continue your journey with all the beautiful memories from the trip"
+    }
+  ],
+  "inclusions": [
+    "Pick-up and drop from Jammu",
+    "Accommodation for 2 adults",
+    "1 room on double sharing basis",
+    "Breakfast & Dinner (MAP plan)",
+    "Sightseeing as per itinerary",
+    "Private vehicle with driver",
+    "Toll tax, parking, fuel charges",
+    "Complimentary 1-hour Shikara ride"
+  ],
+  "exclusions": [
+    " Medical expenses and doctor services",
+    " Local sightseeing in Gulmarg, Pahalgam, Sonmarg, Doodhpathri",
+    " Entry fees to monuments or attractions",
+    " Personal expenses (shopping, laundry, tips, etc.)",
+    " Meals not mentioned in the itinerary",
+    " Transport beyond allowed points (e.g., Tangmarg in snow conditions)",
+    " Adventure activities (skiing, paragliding, Gondola, etc.)",
+    " Camera fees and guide charges"
+  ],
+  "essentialTips": [
+    "Hotels are subject to availability; similar category hotels will be provided if required",
+    "Carry valid ID proof (Passport / Driving License / Voter ID)",
+    "Children below 5 years can stay free using existing bedding",
+    "Children aged 5–12 years will be charged as per child policy",
+    "Primary guest must be at least 18 years old",
+    "Extra bed will be provided as a mattress or folding bed",
+    "Early check-in and late check-out depend on hotel availability and may incur extra charges"
+  ],
+  "stayDetails": [
+    {
+      "category": "Deluxe",
+      "items": [
+        "Srinagar – Hotel Savera Inn / Similar (2 Nights)",
+        "Srinagar – Anarkali Houseboat / Similar (1 Night)",
+        "Pahalgam – Hotel Fifth Season / Similar (1 Night)"
+      ]
+    },
+    {
+      "category": "Premium",
+      "items": [
+        "Upgraded hotels in Srinagar with better amenities",
+        "Premium Houseboat experience",
+        "Comfortable hotel stay in Pahalgam"
+      ]
+    },
+    {
+      "category": "Luxury",
+      "items": [
+        "High-end hotels in Srinagar",
+        "Luxury Houseboat stay",
+        "Premium resort stay in Pahalgam"
+      ]
+    }
+  ],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

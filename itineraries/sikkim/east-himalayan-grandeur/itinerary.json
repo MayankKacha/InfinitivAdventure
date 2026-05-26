@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Eastern Himalayan Grandeur",
+  "slug": "east-himalayan-grandeur",
+  "region": "Sikkim",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "March - June, October - December",
+  "startingPrice": 40800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Immerse yourself in the breathtaking beauty of the Eastern Himalayas covering Kalimpong, Gangtok, Pelling, and Darjeeling.",
+  "route": "Siliguri/NJP → Kalimpong → Gangtok → Pelling → Darjeeling → Siliguri",
+  "highlights": [
+    "Kalimpong sightseeing",
+    "Tsomgo Lake & Baba Mandir",
+    "Pelling Skywalk",
+    "Sunrise from Tiger Hill in Darjeeling"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Kalimpong Arrival",
+      "desc": "Transfer to Kalimpong."
+    },
+    {
+      "day": "Day 2",
+      "title": "Kalimpong to Gangtok",
+      "desc": "Sightseeing, then drive to Gangtok."
+    },
+    {
+      "day": "Day 3",
+      "title": "Tsomgo Lake",
+      "desc": "Day excursion."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gangtok to Pelling",
+      "desc": "Via Namchi."
+    },
+    {
+      "day": "Day 5",
+      "title": "Pelling Local",
+      "desc": "Sightseeing."
+    },
+    {
+      "day": "Day 6",
+      "title": "Transfer to Darjeeling",
+      "desc": "Drive to Darjeeling."
+    },
+    {
+      "day": "Day 7",
+      "title": "Darjeeling Sightseeing",
+      "desc": "Tiger Hill sunrise."
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "Return home."
+    }
+  ],
+  "inclusions": [
+    "Hotels",
+    "Breakfast & dinner",
+    "Vehicle",
+    "Permits process"
+  ],
+  "exclusions": [
+    "GST",
+    "Nathula Pass permit"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 40800,
+      "details": [
+        "Comfortable 3-star hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 46800,
+      "details": [
+        "4-star updated hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 59800,
+      "details": [
+        "Boutique properties"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-2.jpg"
+  ],
+  "coverPhoto": "images/sikkim-2.jpg",
+  "essentialTips": [
+    "Photo ID needed",
+    "Pack warm"
+  ]
+}

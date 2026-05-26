@@ -1,0 +1,87 @@
+{
+  "category": "trekking",
+  "region": "Sikkim",
+  "slug": "goecha-la-trek",
+  "name": "Goecha La Trek",
+  "upcoming": false,
+  "duration": "11 Days / 10 Nights",
+  "route": "Yuksom → Sachen → Tshoka → Dzongri → Thansing → Lamuney → Goecha La → Kockchurang → Tshoka → Yuksom",
+  "startingPrice": null,
+  "description": "The Dzongri- Goechala Trek in Sikkim is the most demanding trek for the rugged players that takes them towards Goecha La from Yuksom to Dzongri and brings the outstanding views of Kanchenjunga. From Yuksam, the trail follows the Rathong Valley to Bakhim and then brings a steep ascent to the village of Tsokha. Above Tshokha, the trail of Dzongri-Goechala takes you to Pethang and then with a further steps towards Dzongri (4020M). From this point, the trail drops steeply down the river to Thansing (3930M). The final destination of the Dzongri- Goechala Trek is at Samiti Lake from which the way to Goecha La brings the best views of Kanchenjunga. Dzongri, which is located at an altitude of about 4020 m in west Sikkim; brings the trekker a most fascinating close-up view of Kanchenjunga and Mt. Pandim. The west of Dzongri brings the long outline of the Kyangla ridge to make the region a trekker's paradise. Goecha La, the region which is located at an elevation of around 4940 m, brings mind blowing sights of the mountains like Pandum, Kanchenjunga and more. Trekking round the Dzongri-Goechala ranges can also take the zealous trekkers around the Kanchenjunga National Park to volunteer different species of animals and mammals like Barking Deer, Musk Deer, Himalayan Black Bear Marbled Cat and the very rare and endangered Red Panda.",
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Bagdogra - Gangtok",
+      "desc": "Arrival Bagdogra. Meet our representative and drive towards Darjeeling. On arrival transfer into hotel. Evening sightseeing and acclamitisation. Dinner and overnight stay at the hotel"
+    },
+    {
+      "day": "Day 2",
+      "title": "Gangtok - Yuksom",
+      "desc": "Today we will drive to Yuksom. The base of our trek. Dinner and overnight stay in guesthouse/tents"
+    },
+    {
+      "day": "Day 3",
+      "title": "Yuksom - Tshoka",
+      "desc": "The trail from Yuksom starts at the local market and follows main road towards the north. The trail climbs gently out of the valley and hugs the right bank of the Ratong Chu River, which can be heard thundering through the gorge below. The trail crosses over four bridges to climb steeply towards north-west to the small settlement of Bakhim. Continue for another 3 kms through forest of magnolia and rhododendron to reach Tshokh. On arrival set campsite for dinner and overnight stay"
+    },
+    {
+      "day": "Day 4",
+      "title": "Tshoka - Dzongri",
+      "desc": "On this day the trail passes through the village of Tshokh and continues to climb north through the forest of rhododendron to the alp of Phidang (3650 m) taking around 3 hrs to complete the ascent. Continue further towards Dzongri. On arrival set campsite for dinner and overnight stay"
+    },
+    {
+      "day": "Day 5",
+      "title": "Dzongri Acclimatisation",
+      "desc": "The day is for rest and acclimatization. On this day one can savour views of the mountain peaks by climbing up to Dzongri Top. From here you get a panoramic view of Kabru (7353 m), Ratong (6678 m), Kanchenjunga (8534 m), Koktang (6147 m), Pandim (6691 m) and Narsing (5825 m). Towards the west, the Singalila Ridge, which separates Sikkim from Nepal, can be seen. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 6",
+      "title": "Dzongri - Thangsing",
+      "desc": "The trail from Dzongri continues along the right bank of the river towards east. After cresting the hill the path drops into the valley and then crosses the bridge over the Prek Chu river. Its an hour climb from the bridge to Tangsiing (3800 m) located on the slopes of Mt Pandim. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 7",
+      "title": "Thangsing - Samiti Lake",
+      "desc": "The trail from Tangsiing climbs gently north and follows a stream and alpine meadows. About an hour above Tangsiing we reach Onglathang from where the superb view of the south face of Kanchenjunga can be seen. In order to capture clear views one has to reach Onglathang early. The trail then skirts through a series of glacial moraines before crossing over meadows again, and arrives at the emerald lake at Samiti. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 8",
+      "title": "Samiti Lake - Goecha La - Samiti Lake",
+      "desc": "The climb to Goecha La begins with a gentle gradient eastwards for about half an hour and then later the steep ascent starts. The trail follows the glacial moraine north-east and then drops to a dry lake at Zemathang. A tough scramble over rocks and boulders with a rise of 400 meters will bring us on the top of the pass. The pass is formed due to the depression between Pandim and the Kabru spurs. It over looks the Talung Valley and commands a very impressive view of the south face of Kanchejunga. Afternoon return to the Samiti lake. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 9",
+      "title": "Samiti Lake - Tshoka",
+      "desc": "Start retracing steps towards Tangsiing will take about couple of hours or so. From Tangsiing follow the trail to Kokchorung(3800 m) which is a good camping site. Continue descending towards Tsokha by going through a bypass route directly to Tsokha. Dinner and overnight stay in tents"
+    },
+    {
+      "day": "Day 10",
+      "title": "Tshoka - Yuksom",
+      "desc": "In the morning after breakfast trek down to Tshoka. Overnight stay at Guest House"
+    },
+    {
+      "day": "Day 11",
+      "title": "Yuksom - Bagdogra",
+      "desc": "In the morning after breakfast drive to Bagdogra airport and from here catch a flight for onward destination"
+    }
+  ],
+  "inclusions": [],
+  "exclusions": [],
+  "essentialTips": [],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/dzongri-goecha-la-trek-01.webp",
+    "images/dzongri-goecha-la-trek-03.webp",
+    "images/dzongri-goecha-la-trek-04.webp",
+    "images/dzongri-goecha-la-trek-05.webp",
+    "images/dzongri-goecha-la-trek-06.webp",
+    "images/dzongri-goecha-la-trek-07.webp"
+  ],
+  "videos": [],
+  "coverPhoto": "images/dzongri-goecha-la-trek-01.webp",
+  "hasData": true
+}

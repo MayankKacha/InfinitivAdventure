@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Sikkim-Darjeeling Grand Tour",
+  "slug": "sikkim-darjeeling-grand-old",
+  "region": "Sikkim",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "March - June, September - November",
+  "startingPrice": 41800,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "A grand tour covering the best of Sikkim and Darjeeling — from the vibrant capital Gangtok to the scenic viewpoints of Pelling and the colonial charm of Darjeeling with its tea gardens and Kanchenjunga sunrise.",
+  "route": "Bagdogra → Kalimpong → Gangtok → Tsomgo Lake → Pelling → Darjeeling → Bagdogra",
+  "highlights": [
+    "Visit Tsomgo Lake and Baba Mandir",
+    "Explore Gangtok's monasteries and viewpoints",
+    "Scenic Pelling with Skywalk and Pemayangtse Monastery",
+    "Discover stunning Darjeeling with Tiger Hill sunrise",
+    "Tea garden visits and toy train experience",
+    "Visit Kalimpong's botanical gardens"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Transfer to Kalimpong",
+      "desc": "Arrive at Bagdogra Airport/NJP. Drive to Kalimpong. Visit Durpin Dara, Delo View Point, and Flower Market. Overnight in Kalimpong."
+    },
+    {
+      "day": "Day 2",
+      "title": "Kalimpong to Gangtok",
+      "desc": "Drive to Gangtok via Teesta River. Visit Rumtek Monastery and Enchey Monastery. Evening stroll on MG Marg. Overnight in Gangtok."
+    },
+    {
+      "day": "Day 3",
+      "title": "Excursion to Tsomgo Lake & Baba Mandir",
+      "desc": "Drive to Tsomgo Lake at 12,400 ft. Visit Baba Harbhajan Singh Mandir. Return to Gangtok."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gangtok Local Sightseeing",
+      "desc": "Visit Tashi Viewpoint, Ganesh Tok, Institute of Tibetology, Do-drul Chorten, and Ban Jhakri Waterfalls. Overnight in Gangtok."
+    },
+    {
+      "day": "Day 5",
+      "title": "Gangtok to Pelling via Ravangla",
+      "desc": "Drive to Pelling via Ravangla. Visit Buddha Park. Check in at Pelling hotel. Evening at leisure with mountain views."
+    },
+    {
+      "day": "Day 6",
+      "title": "Pelling Sightseeing",
+      "desc": "Visit Pemayangtse Monastery, Rabdentse Ruins, Khecheopalri Lake, Rimbi Waterfalls, and Pelling Skywalk. Overnight in Pelling."
+    },
+    {
+      "day": "Day 7",
+      "title": "Pelling to Darjeeling",
+      "desc": "Drive to Darjeeling. Visit Tiger Hill for sunrise (next morning), explore the Mall, Batasia Loop, and Himalayan Mountaineering Institute."
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "After breakfast, transfer to NJP/Bagdogra for onward journey."
+    }
+  ],
+  "inclusions": [
+    "1 Night stay in Kalimpong",
+    "2 Nights stay in Gangtok",
+    "2 Nights stay in Pelling",
+    "2 Nights stay in Darjeeling",
+    "Daily breakfast and dinner",
+    "Private vehicle for transfers and sightseeing",
+    "Airport/railway station pick-up & drop",
+    "Experienced driver cum guide",
+    "Toll, parking, permits, and driver allowances",
+    "24x7 support by Infinitiv Adventure"
+  ],
+  "exclusions": [
+    "5% GST",
+    "Entry tickets to attractions",
+    "Optional activities",
+    "Nathula Pass permit",
+    "Personal expenses",
+    "Any additional cost due to natural or unforeseen circumstances"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 41800,
+      "details": [
+        "Standard hotels across all destinations",
+        "Comfortable rooms with essential facilities"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 59800,
+      "details": [
+        "Upgraded hotels with better amenities and views",
+        "Enhanced comfort and service"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 66800,
+      "details": [
+        "Premium resorts/boutique properties",
+        "Spacious rooms, scenic locations, personalized hospitality"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "Apr 2026",
+      "dates": [
+        "Apr 4",
+        "Apr 11",
+        "Apr 18",
+        "Apr 25"
+      ]
+    },
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 2",
+        "May 9",
+        "May 16",
+        "May 23"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 6",
+        "Jun 13",
+        "Jun 20"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 5",
+        "Sep 12",
+        "Sep 19",
+        "Sep 26"
+      ]
+    },
+    {
+      "month": "Oct 2026",
+      "dates": [
+        "Oct 3",
+        "Oct 10",
+        "Oct 17",
+        "Oct 24"
+      ]
+    }
+  ],
+  "photos": [
+    "images/sikkim-1.jpg",
+    "images/sikkim-2.jpg",
+    "images/sikkim-3.jpg",
+    "images/sikkim-4.jpg",
+    "images/sikkim-5.jpg"
+  ],
+  "coverPhoto": "images/sikkim-1.jpg",
+  "essentialTips": [
+    "Carry valid ID proof (Passport/Driving License/Voter ID)",
+    "Passport-size photos required for permits",
+    "Warm clothing recommended",
+    "Permits required for Tsomgo Lake"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Summer Spiti Valley",
+  "slug": "summer-spiti-valley",
+  "region": "Himachal",
+  "duration": "8 Nights / 9 Days",
+  "bestTime": "June - September",
+  "startingPrice": 22500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "A thoughtfully curated journey through one of India's most remote and mesmerizing high-altitude regions in summer.",
+  "route": "Shimla → Chitkul → Kalpa → Tabo → Kaza → Chandratal → Manali",
+  "highlights": [
+    "Nako Village & Lake",
+    "Dhankar Monastery",
+    "Key Monastery",
+    "Chicham Bridge (Asia's highest)",
+    "Chandratal Lake camping"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi to Shimla",
+      "desc": "Overnight Volvo to Shimla."
+    },
+    {
+      "day": "Day 2",
+      "title": "Shimla to Chitkul",
+      "desc": "Scenic drive to Chitkul via Kinnaur."
+    },
+    {
+      "day": "Day 3",
+      "title": "Chitkul to Kalpa",
+      "desc": "Drive to Kalpa, view Kinnaur Kailash."
+    },
+    {
+      "day": "Day 4",
+      "title": "Kalpa to Tabo",
+      "desc": "Drive through rugged terrain, visit Nako Lake."
+    },
+    {
+      "day": "Day 5",
+      "title": "Tabo to Kaza",
+      "desc": "Visit Tabo and Dhankar Monasteries."
+    },
+    {
+      "day": "Day 6",
+      "title": "Kaza Local",
+      "desc": "Langza, Hikkim, Komic, Key Monastery."
+    },
+    {
+      "day": "Day 7",
+      "title": "Chandratal Lake",
+      "desc": "Drive via Chicham Bridge to Chandratal."
+    },
+    {
+      "day": "Day 8",
+      "title": "Chandratal to Manali",
+      "desc": "Drive to Manali, Volvo to Delhi."
+    },
+    {
+      "day": "Day 9",
+      "title": "Delhi",
+      "desc": "Arrival in Delhi."
+    }
+  ],
+  "inclusions": [
+    "Homestays/Hotels",
+    "Breakfast & Dinner",
+    "Tempo Traveller",
+    "Trip leader",
+    "Oxygen support"
+  ],
+  "exclusions": [
+    "Lunch",
+    "Personal expenses",
+    "Entry fees",
+    "Travel insurance"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 22500,
+      "details": [
+        "Standard homestays and basic camps"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 29500,
+      "details": [
+        "Upgraded homestays and comfortable camps"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 38500,
+      "details": [
+        "Premium boutique stays and superior camps"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Aadhar/Passport",
+    "High altitude precautions"
+  ]
+}

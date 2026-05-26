@@ -1,0 +1,106 @@
+{
+  "category": "tours",
+  "region": "Sikkim",
+  "slug": "sikkim-explore",
+  "name": "SIKKIM EXPLORE",
+  "upcoming": false,
+  "duration": "10 Days / 9 Nights",
+  "route": "PICKUP from Siliguri/NUP/Bagdogra → GANG TOK TO EAST SIKKIM → Nathang VALLEY sight seeing and back → Gangtok → Lachung → Yumthang VALLEY and ZERO POINT → Gang → Namchi → Namchi & Ravangla Exploration → Scenic 5",
+  "startingPrice": 20900,
+  "description": null,
+  "highlights": [],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "PICKUP from Siliguri/NUP/Bagdogra",
+      "desc": "Reach Gangtok Check in Hotel Hotel on MG ROAD (no extra travelling cost) Visit MG MARG and LAL MARKET in 1 min walk \"In East Sikkim, even the clouds seem to pause and admire the view.\""
+    },
+    {
+      "day": "Day 2",
+      "title": "GANG TOK TO EAST SIKKIM",
+      "desc": "Visit the magical Tsorngo lake, Experience highest ropeway in Asia (14,000 ft) Nathula Pass (Indo-China border] Baba Harbhajan Singh Mandir Stay in Nathang Valley (Valley facing stay)"
+    },
+    {
+      "day": "Day 3",
+      "title": "Nathang VALLEY sight seeing and back to Gangtok",
+      "desc": "Silk Route (ZULUK) Thambi view point (panoramic view of MT Kanchenjunga) Old Baba Harbhajan Singh Temple Back to Gangtok \"Snowy destinations remind us that even the coldest places can feel magical.\""
+    },
+    {
+      "day": "Day 4",
+      "title": "Gangtok to Lachung",
+      "desc": "Enroute SEVEN SISTER waterfalls and AMITABH BACHCHAN waterfalls stay in Lachung"
+    },
+    {
+      "day": "Day 5",
+      "title": "Yumthang VALLEY and ZERO POINT",
+      "desc": "Experience Yurnthang valley (valley of Flowers-feb to june) SNOW covered ZERO POINT like never before ( snow season - nov to march/april) stay in Lachung 6Day & Lachung to Gangtok drop Reach Gangtok by 2PM Stay in Gangtok \"South Sikkim, wrapped in green calm.\""
+    },
+    {
+      "day": "Day 7",
+      "title": "Gangtok to Namchi",
+      "desc": "Take a transfer to Namchi (approx. 4-5 hours drive). Check into your hotel and explore the local market. Enjoy panoramic view from Tarey Bhir Visit the Char Dham in the afternoon, a replica of all four main Hindu pilgrimage sites Overnight stay at your hotel in Namchi"
+    },
+    {
+      "day": "Day 8",
+      "title": "Namchi & Ravangla Exploration",
+      "desc": "Drive to Ravarigla (approx. 1-2 hours). Visit the Buddha Park, (Tallest Buddha Statue in Sikkim) Explore Ravangla town and visit the Termi Tea Garden, the only Tea Estate in Sikkim. Stay in Ravangla ▲\"West Sikkim is written in mist and mountains.\""
+    },
+    {
+      "day": "Day 9",
+      "title": "Scenic 5-hour drive to Pelling",
+      "desc": "Exploring the Charms of Peliling Visit the Peiling Skywalk at Chenrezig Statue, bird sanctuary and the historic Rabdentse Ruins. Peaceful overnight stay in Pelling"
+    },
+    {
+      "day": "Day 10",
+      "title": "Departure",
+      "desc": "Pelling to NJP/Bagdogra/Siliguri we provide exact drop to RAILWAY STATION, AIRPORT and HOTELS"
+    }
+  ],
+  "inclusions": [
+    "Accommodation in double, triple and quad sharing (Standard rooms",
+    "Transportation cost (Personal)",
+    "Driver's allowance",
+    "Parking charges",
+    "Permits/toll taxes (Nathula Pass included |",
+    "Guide-charges XNo hidden cost"
+  ],
+  "exclusions": [
+    "Anything not mentioned in inclusions",
+    "Any kind of activity charges and entry fees",
+    "Heater Charges",
+    "Sanitation fee",
+    "Package Cost: Starting from 20,900 only per person"
+  ],
+  "essentialTips": [
+    "1. Warm Clothes (fleece and wind cheater)",
+    "2. Hand gloves, warm caps, shoes",
+    "3. Original ID",
+    "4. Reusable Water Bottle Xuse and throw bottles not allowed)",
+    "5. Prescribed Medicines (if any)",
+    "6. Rain Jacket/Umbrella",
+    "7. Power Bank",
+    "8. Oxygen can (for North & East Sikkim - you can purchase after reaching Gangtok)"
+  ],
+  "stayDetails": [],
+  "packages": [],
+  "bestTime": null,
+  "trekFacts": {},
+  "photos": [
+    "images/IMG-1-.jpg",
+    "images/IMG-10-.jpg",
+    "images/IMG-11-.jpg",
+    "images/IMG-12-.jpg",
+    "images/IMG-13-.jpg",
+    "images/IMG-2-.jpg",
+    "images/IMG-3-.jpg",
+    "images/IMG-4-.jpg",
+    "images/IMG-5-.jpg",
+    "images/IMG-6-.jpg",
+    "images/IMG-7-.jpg",
+    "images/IMG-8-.jpg",
+    "images/IMG-9-.jpg"
+  ],
+  "videos": [],
+  "coverPhoto": "images/IMG-1-.jpg",
+  "hasData": true
+}

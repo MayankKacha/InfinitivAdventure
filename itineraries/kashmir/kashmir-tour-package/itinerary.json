@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir Tour Package",
+  "slug": "kashmir-tour-package",
+  "region": "Kashmir",
+  "duration": "5 Nights / 6 Days",
+  "bestTime": "March - November",
+  "startingPrice": 17500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "A thoughtfully designed 6-day itinerary covering the region's most iconic destinations.",
+  "route": "Srinagar → Pahalgam → Srinagar → Gulmarg → Sonmarg → Srinagar",
+  "highlights": [
+    "Houseboat experience",
+    "Pahalgam excursion",
+    "Gulmarg skiing destination",
+    "Sonmarg Meadow of Gold"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Srinagar Arrival",
+      "desc": "Transfer to hotel."
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar to Pahalgam",
+      "desc": "Betaab, Aru valleys."
+    },
+    {
+      "day": "Day 3",
+      "title": "Pahalgam to Srinagar",
+      "desc": "Remaining spots, return."
+    },
+    {
+      "day": "Day 4",
+      "title": "Gulmarg",
+      "desc": "Gondola ride (optional)."
+    },
+    {
+      "day": "Day 5",
+      "title": "Sonmarg",
+      "desc": "Sindh river views."
+    },
+    {
+      "day": "Day 6",
+      "title": "Departure",
+      "desc": "Srinagar airport."
+    }
+  ],
+  "inclusions": [
+    "Meals",
+    "Accommodation",
+    "Transport",
+    "Shikara"
+  ],
+  "exclusions": [
+    "Adventure",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 17500,
+      "details": [
+        "Budget-friendly"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 24500,
+      "details": [
+        "3-star category"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 36500,
+      "details": [
+        "Premium hotels"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-3.jpg"
+  ],
+  "coverPhoto": "images/kashmir-3.jpg",
+  "essentialTips": [
+    "Valid ID proof necessary"
+  ]
+}

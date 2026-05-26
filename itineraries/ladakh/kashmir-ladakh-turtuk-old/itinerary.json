@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Kashmir to Ladakh Explorer with Turtuk",
+  "slug": "kashmir-ladakh-turtuk-old",
+  "region": "Ladakh",
+  "duration": "7 Nights / 8 Days",
+  "bestTime": "May - September",
+  "startingPrice": 27999,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Embark on a spectacular journey through the mesmerizing landscapes of Kashmir and Ladakh. This carefully designed itinerary blends scenic beauty, cultural richness, and high-altitude adventure including a rare visit to the culturally rich border village of Turtuk.",
+  "route": "Srinagar → Sonmarg → Zoji La → Drass → Kargil → Lamayuru → Leh → Khardung La → Nubra Valley → Turtuk → Pangong Lake → Chang La → Leh",
+  "highlights": [
+    "Shikara ride on the iconic Dal Lake",
+    "Visit to Mughal Gardens in Srinagar",
+    "Scenic drive through Zoji La Pass",
+    "Visit to ancient monasteries like Lamayuru, Hemis & Thiksey",
+    "Drive across Khardung La",
+    "Camel safari in Nubra Valley sand dunes",
+    "Excursion to Turtuk village near LOC",
+    "Visit to the stunning Pangong Lake"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival in Srinagar",
+      "desc": "Arrive at Srinagar Airport. Visit Mughal Gardens such as Nishat Bagh and Shalimar Bagh. Evening Shikara ride on Dal Lake. Overnight stay in Srinagar."
+    },
+    {
+      "day": "Day 2",
+      "title": "Srinagar to Kargil",
+      "desc": "Drive towards Kargil via Sonmarg and Zoji La Pass. Visit Drass Village and War Memorial. Overnight in Kargil."
+    },
+    {
+      "day": "Day 3",
+      "title": "Kargil to Leh",
+      "desc": "Visit Mulbekh Buddha statue, Lamayuru Monastery, Moonland, Indus-Zanskar Sangam, Magnetic Hill, Gurudwara Pathar Sahib. Evening Leh Market, Shanti Stupa and Leh Palace."
+    },
+    {
+      "day": "Day 4",
+      "title": "Leh to Nubra Valley via Khardung La",
+      "desc": "Drive to Nubra Valley via Khardung La Pass. Visit Diskit Monastery and Hunder Sand Dunes. Optional camel safari. Overnight in Nubra."
+    },
+    {
+      "day": "Day 5",
+      "title": "Nubra to Turtuk (Day Excursion)",
+      "desc": "Visit Turtuk village near Indo-Pak border. Explore Balti traditions and scenic surroundings. Visit Thang village (LOC viewpoint). Return to Nubra."
+    },
+    {
+      "day": "Day 6",
+      "title": "Nubra to Pangong Lake via Shyok",
+      "desc": "Drive to Pangong Lake via scenic Shyok route. Explore the changing colors of Pangong Lake. Overnight near the lake."
+    },
+    {
+      "day": "Day 7",
+      "title": "Pangong to Leh via Chang La",
+      "desc": "Return to Leh via Chang La Pass. Visit Shey Palace and Thiksey Monastery. Evening at leisure."
+    },
+    {
+      "day": "Day 8",
+      "title": "Departure",
+      "desc": "Transfer to Leh Airport for departure with unforgettable memories."
+    }
+  ],
+  "inclusions": [
+    "Accommodation in hotels/camps on double sharing basis",
+    "Daily breakfast and dinner",
+    "Airport pick-up (Srinagar) and drop (Leh)",
+    "Private vehicle for all transfers and sightseeing",
+    "Experienced driver-cum-guide",
+    "Inner line permits",
+    "Oxygen cylinder (for Nubra & Pangong)",
+    "All toll taxes, parking, and driver expenses",
+    "24/7 assistance during the trip"
+  ],
+  "exclusions": [
+    "Airfare and GST",
+    "Personal expenses (laundry, shopping, tips, etc.)",
+    "Entry fees, camera charges, guide fees",
+    "Adventure activities (camel ride, rafting, ATV, etc.)",
+    "Travel insurance and medical expenses",
+    "Extra costs due to delays, roadblocks, or natural events"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 27999,
+      "details": [
+        "Leh: Standard budget hotels",
+        "Nubra: Guest house or basic camps",
+        "Pangong: Basic cottages/camps",
+        "Kargil: Budget hotels",
+        "Srinagar: Standard hotel/houseboat"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 38999,
+      "details": [
+        "Leh: Comfortable 3-star hotels",
+        "Nubra: Boutique camps or deluxe cottages",
+        "Pangong: Better lake-view cottages",
+        "Kargil: Premium category hotels",
+        "Srinagar: Premium hotels or deluxe houseboats"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 54999,
+      "details": [
+        "Leh: 4-star premium hotels",
+        "Nubra: Luxury camps with modern amenities",
+        "Pangong: Premium lake-facing cottages",
+        "Kargil: Best available luxury hotels",
+        "Srinagar: Luxury hotels or premium houseboats"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/ladakh-7.jpg",
+    "images/ladakh-8.jpg",
+    "images/ladakh-3.jpg",
+    "images/ladakh-5.jpg",
+    "images/ladakh-6.jpg"
+  ],
+  "coverPhoto": "images/ladakh-7.jpg",
+  "essentialTips": [
+    "Acclimatization is important due to high altitude",
+    "Carry valid government ID proof at all times",
+    "Only postpaid SIM cards work in Ladakh",
+    "Pack warm clothing including thermals and jackets",
+    "Be prepared for weather and road condition changes"
+  ]
+}

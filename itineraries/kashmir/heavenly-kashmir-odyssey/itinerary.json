@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Heavenly Kashmir Odyssey",
+  "slug": "heavenly-kashmir-odyssey",
+  "region": "Kashmir",
+  "duration": "9 Nights / 10 Days",
+  "bestTime": "April - November",
+  "startingPrice": 32500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "Immerse yourself in the timeless charm of Kashmir. Detailed 10-day comprehensive Valley Experience including all iconic locations.",
+  "route": "Srinagar → Doodhpathri → Yusmarg → Sonamarg → Gulmarg → Pahalgam",
+  "highlights": [
+    "Avantipura Ruins",
+    "Anantnag Sulphur Springs",
+    "Thajiwas Glacier",
+    "Dal Lake houseboat",
+    "Doodhpathri & Yusmarg"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival",
+      "desc": "Shankaracharya Temple."
+    },
+    {
+      "day": "Day 2",
+      "title": "Local Srinagar",
+      "desc": "Gardens."
+    },
+    {
+      "day": "Day 3",
+      "title": "Doodhpathri",
+      "desc": "Valley of milk."
+    },
+    {
+      "day": "Day 4",
+      "title": "Yusmarg",
+      "desc": "Meadows."
+    },
+    {
+      "day": "Day 5",
+      "title": "Sonmarg",
+      "desc": "Overnight."
+    },
+    {
+      "day": "Day 6",
+      "title": "Gulmarg",
+      "desc": "Overnight."
+    },
+    {
+      "day": "Day 7",
+      "title": "Pahalgam",
+      "desc": "Avantipura ruins on way."
+    },
+    {
+      "day": "Day 8",
+      "title": "Pahalgam Local",
+      "desc": "Relax."
+    },
+    {
+      "day": "Day 9",
+      "title": "Srinagar Houseboat",
+      "desc": "Return."
+    },
+    {
+      "day": "Day 10",
+      "title": "Departure",
+      "desc": "Leave."
+    }
+  ],
+  "inclusions": [
+    "Transport",
+    "Accommodations",
+    "Meals"
+  ],
+  "exclusions": [
+    "Local transports in valleys",
+    "Gondola"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 32500,
+      "details": [
+        "Standard hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 42500,
+      "details": [
+        "3-4 star hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 61500,
+      "details": [
+        "Premium hotels & houseboats"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/kashmir-6.jpg"
+  ],
+  "coverPhoto": "images/kashmir-6.jpg",
+  "essentialTips": [
+    "Pony rides optional",
+    "Respect nature"
+  ]
+}

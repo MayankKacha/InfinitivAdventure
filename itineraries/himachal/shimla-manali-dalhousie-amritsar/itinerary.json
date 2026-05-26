@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "last_updated": "2026-05-02"
+  },
+  "name": "Shimla, Manali, Dalhousie & Amritsar Escape",
+  "slug": "shimla-manali-dalhousie-amritsar",
+  "region": "Himachal",
+  "duration": "9 Nights / 10 Days",
+  "bestTime": "March - June, September - November",
+  "startingPrice": 24500,
+  "travellers": [
+    2,
+    4,
+    6,
+    "Group"
+  ],
+  "description": "The Himalayan Heritage Trail blending scenic charm of Himachal Pradesh with the rich cultural essence of Amritsar.",
+  "route": "Delhi → Shimla → Manali → Dharamshala → Dalhousie → Amritsar → Delhi",
+  "highlights": [
+    "Shimla & Manali sights",
+    "Dalai Lama Temple in Dharamshala",
+    "Khajjiar (Mini Switzerland)",
+    "Golden Temple Amritsar",
+    "Wagah Border ceremony"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Delhi to Shimla",
+      "desc": "Drive to Shimla."
+    },
+    {
+      "day": "Day 2",
+      "title": "Shimla",
+      "desc": "Sankat Mochan, Jakhu, Mall Road."
+    },
+    {
+      "day": "Day 3",
+      "title": "Shimla to Manali",
+      "desc": "Drive via picturesque landscapes."
+    },
+    {
+      "day": "Day 4",
+      "title": "Manali Local",
+      "desc": "Hadimba, Vashisht."
+    },
+    {
+      "day": "Day 5",
+      "title": "Solang Valley",
+      "desc": "Solang Valley excursion."
+    },
+    {
+      "day": "Day 6",
+      "title": "Manali to Dharamshala",
+      "desc": "McLeodganj, Dalai Lama Temple."
+    },
+    {
+      "day": "Day 7",
+      "title": "Dharamshala to Dalhousie",
+      "desc": "Relax and explore."
+    },
+    {
+      "day": "Day 8",
+      "title": "Khajjiar",
+      "desc": "Mini Switzerland excursion."
+    },
+    {
+      "day": "Day 9",
+      "title": "Amritsar",
+      "desc": "Golden Temple, Wagah Border."
+    },
+    {
+      "day": "Day 10",
+      "title": "Departure",
+      "desc": "Return to Delhi."
+    }
+  ],
+  "inclusions": [
+    "Hotels",
+    "Breakfast & Dinner",
+    "Private vehicle"
+  ],
+  "exclusions": [
+    "Rohtang pass permit",
+    "Personal expenses"
+  ],
+  "stayCategories": {
+    "deluxe": {
+      "label": "Deluxe",
+      "price": 24500,
+      "details": [
+        "3-star hotels"
+      ]
+    },
+    "premium": {
+      "label": "Premium",
+      "price": 32500,
+      "details": [
+        "4-star hotels"
+      ]
+    },
+    "luxury": {
+      "label": "Luxury",
+      "price": 45500,
+      "details": [
+        "Premium resorts"
+      ]
+    }
+  },
+  "departureDates": [
+    {
+      "month": "May 2026",
+      "dates": [
+        "May 8",
+        "May 15",
+        "May 22",
+        "May 29"
+      ]
+    },
+    {
+      "month": "Jun 2026",
+      "dates": [
+        "Jun 5",
+        "Jun 12",
+        "Jun 19",
+        "Jun 26"
+      ]
+    },
+    {
+      "month": "Jul 2026",
+      "dates": [
+        "Jul 3",
+        "Jul 10",
+        "Jul 17",
+        "Jul 24"
+      ]
+    },
+    {
+      "month": "Aug 2026",
+      "dates": [
+        "Aug 7",
+        "Aug 14",
+        "Aug 21",
+        "Aug 28"
+      ]
+    },
+    {
+      "month": "Sep 2026",
+      "dates": [
+        "Sep 4",
+        "Sep 11",
+        "Sep 18",
+        "Sep 25"
+      ]
+    }
+  ],
+  "photos": [
+    "images/himachal-1.png"
+  ],
+  "coverPhoto": "images/himachal-1.png",
+  "essentialTips": [
+    "Keep personal medicines handy",
+    "Respect cultural sites"
+  ]
+}
